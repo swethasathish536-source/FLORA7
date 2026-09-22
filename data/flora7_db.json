@@ -1,0 +1,1368 @@
+{
+  "products": [
+    {
+      "name": "7 CLASSIC BLUE COLOUR ROSES",
+      "slug": "7",
+      "category": "premium-bouquet",
+      "price": 247,
+      "discountPercent": 0,
+      "stockStatus": "IN_STOCK",
+      "stockQuantity": 50,
+      "flowerType": "Handmade Satin Ribbon Rose",
+      "numberOfFlowers": 7,
+      "preparationTime": "1-2 days",
+      "description": "Handmade satin ribbon roses crafted with love by Shwetha. Features premium ribbon folds and luxury finish.",
+      "shortDescription": "Handcrafted satin ribbon rose bouquet.",
+      "images": [
+        "/images/flora7-prod-1789662249696-24sx7.jpeg",
+        "/images/flora7-prod-1789662270353-0jns8.jpeg",
+        "/images/flora7-prod-1789662278606-tr124.jpeg",
+        "/images/flora7-prod-prod-1789662520611-img4.jpeg",
+        "/images/flora7-prod-prod-1789662520611-img5.jpeg",
+        "/images/flora7-prod-prod-1789662520611-img6.jpeg"
+      ],
+      "availableColours": [
+        "Sky Blue & Cream Ivory",
+        "Blush Pink & Ivory",
+        "Rose Gold & Champagne"
+      ],
+      "wrappingOptions": [
+        "Frosted Korean White with Gold Trim",
+        "Dusty Pink Matte",
+        "Vintage Gold Border Wrap"
+      ],
+      "ribbonColours": [
+        "Luxe Gold Satin Bow",
+        "Rose Gold Satin",
+        "Ivory Silk"
+      ],
+      "tags": [
+        "satin roses",
+        "handmade",
+        "gift"
+      ],
+      "isBestSeller": false,
+      "isNewArrival": true,
+      "isFestive": false,
+      "isLimitedEdition": false,
+      "isCustomisable": true,
+      "hasPearlOption": true,
+      "messageCardOption": true,
+      "giftTagOption": true,
+      "id": "prod-1789662520611",
+      "createdAt": "2026-09-17T16:28:40.611Z",
+      "sizeOptions": [
+        "Standard Size (30cm)"
+      ],
+      "rating": 5,
+      "reviewCount": 12,
+      "occasions": [
+        "Birthday",
+        "Anniversary",
+        "Special Occasion"
+      ]
+    },
+    {
+      "id": "prod-single-rose",
+      "name": "Single Satin Rose",
+      "slug": "single-satin-rose",
+      "category": "single-rose",
+      "price": 57,
+      "originalPrice": 70,
+      "discountPercent": 19,
+      "description": "A single, perfectly hand-crafted satin ribbon rose made to last forever. Wrapped in delicate blush tissue with a satin ribbon bow.",
+      "shortDescription": "Handmade single ribbon rose that never fades.",
+      "images": [
+        "/images/flora7-prod-1789659377714-yeeum.jpeg",
+        "/images/flora7-prod-1789659401153-k6gqi.jpeg",
+        "/images/flora7-prod-1789659425123-p7apd.jpeg"
+      ],
+      "availableColours": [
+        "Blush Pink",
+        "Cream Ivory",
+        "Passion Red",
+        "Lavender"
+      ],
+      "flowerType": "Satin Ribbon Rose",
+      "numberOfFlowers": 1,
+      "sizeOptions": [
+        "Standard Single Rose (28cm stem)"
+      ],
+      "wrappingOptions": [
+        "Plain black",
+        "Plain white",
+        "Shimmer white"
+      ],
+      "ribbonColours": [
+        "Rose Gold Satin",
+        "Ivory Silk"
+      ],
+      "hasPearlOption": true,
+      "messageCardOption": true,
+      "giftTagOption": true,
+      "stockStatus": "IN_STOCK",
+      "stockQuantity": 150,
+      "rating": 4.9,
+      "reviewCount": 38,
+      "isCustomisable": true,
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "isFestive": false,
+      "isLimitedEdition": false,
+      "occasions": [
+        "Friendship",
+        "Birthday",
+        "Just Because",
+        "Teacher's Day"
+      ],
+      "tags": [
+        "single rose",
+        "satin flower",
+        "handmade",
+        "budget gift"
+      ],
+      "preparationTime": "Same day dispatch / 1 day",
+      "createdAt": "2026-08-14T04:11:25.028Z"
+    },
+    {
+      "id": "prod-premium-single-rose",
+      "name": "Premium Single Rose with Pearl & LED",
+      "slug": "premium-single-rose",
+      "category": "single-rose",
+      "price": 77,
+      "originalPrice": 99,
+      "discountPercent": 22,
+      "description": "Signature single satin rose studded with a core faux pearl, wrapped in luxury matte paper with warm fairy lights attached.",
+      "shortDescription": "Satin rose with pearl centerpiece and subtle LED glow.",
+      "images": [
+        "/images/flora7-prod-1789659728705-adhqm.jpeg",
+        "/images/flora7-prod-1789659742973-hehyv.jpeg",
+        "/images/flora7-prod-1789659752414-2pq0g.jpeg",
+        "/images/flora7-prod-1789659762693-ev9ke.jpeg"
+      ],
+      "availableColours": [
+        "Blush Pink",
+        "Rose Gold",
+        "Champagne Gold"
+      ],
+      "flowerType": "Jumbo Layered Satin Rose",
+      "numberOfFlowers": 1,
+      "sizeOptions": [
+        "Luxe Single Stem"
+      ],
+      "wrappingOptions": [
+        "Kraft Gold Border",
+        "Dusty Pink Matte"
+      ],
+      "ribbonColours": [
+        "Rose Gold Satin",
+        "Blush Organza"
+      ],
+      "hasPearlOption": true,
+      "messageCardOption": true,
+      "giftTagOption": true,
+      "stockStatus": "IN_STOCK",
+      "stockQuantity": 90,
+      "rating": 5,
+      "reviewCount": 42,
+      "isCustomisable": true,
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "isFestive": true,
+      "isLimitedEdition": false,
+      "occasions": [
+        "Birthday",
+        "Anniversary",
+        "Valentine's Day"
+      ],
+      "tags": [
+        "premium rose",
+        "pearl rose",
+        "satin ribbon"
+      ],
+      "preparationTime": "1 day",
+      "createdAt": "2026-08-14T04:11:25.029Z"
+    },
+    {
+      "id": "prod-5-rose-bouquet",
+      "name": "5 Rose Delight Bouquet",
+      "slug": "5-rose-bouquet",
+      "category": "mini-bouquet",
+      "price": 197,
+      "originalPrice": 240,
+      "discountPercent": 18,
+      "description": "Charming 5-rose arrangement crafted by Shwetha with satin ribbon layers and custom ribbon wrapping.",
+      "shortDescription": "5 elegant satin roses wrapped to perfection.",
+      "images": [
+        "https://images.unsplash.com/photo-1582794543139-8ac9cb0f7b11?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1526047932273-341f2a7631f9?auto=format&fit=crop&q=80&w=800"
+      ],
+      "availableColours": [
+        "Blush Pink Mix",
+        "Pastel Harmony",
+        "Classic Red"
+      ],
+      "flowerType": "Handmade Satin Ribbon Rose",
+      "numberOfFlowers": 5,
+      "sizeOptions": [
+        "Standard Bouquet (28cm)"
+      ],
+      "wrappingOptions": [
+        "Soft Lavender Matte",
+        "Dusty Pink Matte"
+      ],
+      "ribbonColours": [
+        "Rose Gold Satin",
+        "Ivory Silk"
+      ],
+      "hasPearlOption": true,
+      "messageCardOption": true,
+      "giftTagOption": true,
+      "stockStatus": "IN_STOCK",
+      "stockQuantity": 50,
+      "rating": 4.9,
+      "reviewCount": 51,
+      "isCustomisable": true,
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "isFestive": false,
+      "isLimitedEdition": false,
+      "occasions": [
+        "Anniversary",
+        "Birthday",
+        "Mother's Day"
+      ],
+      "tags": [
+        "5 roses",
+        "blush pink",
+        "craft bouquet"
+      ],
+      "preparationTime": "1 day",
+      "createdAt": "2026-08-14T04:11:25.029Z"
+    },
+    {
+      "id": "prod-7-rose-bouquet",
+      "name": "7 Rose Classic Satin Bouquet",
+      "slug": "7-rose-bouquet",
+      "category": "premium-bouquet",
+      "price": 267,
+      "originalPrice": 299,
+      "discountPercent": 11,
+      "description": "The signature Flora7 7-Rose Bouquet representing eternal love. Handcrafted by Shwetha with sky blue & cream ivory satin ribbon roses, gleaming faux pearl centers in every bloom, frosted Korean white paper with gold borders, and a deluxe gold satin ribbon bow with a pearl pin.",
+      "shortDescription": "Signature 7-rose bouquet with pearl cores & gold ribbon bow.",
+      "images": [
+        "/images/flora7-prod-1789661949230-5d448.jpeg",
+        "/images/flora7-prod-1789661963542-iqewh.jpeg"
+      ],
+      "availableColours": [
+        "Sky Blue & Cream Ivory (Featured)",
+        "Blush Pink & Ivory",
+        "Rose Gold & Champagne",
+        "Deep Maroon & Cream"
+      ],
+      "flowerType": "Handmade Satin Ribbon Rose",
+      "numberOfFlowers": 7,
+      "sizeOptions": [
+        "Classic Deluxe Bouquet (32cm)"
+      ],
+      "wrappingOptions": [
+        "Plain white",
+        "Plain black",
+        "White shimmer"
+      ],
+      "ribbonColours": [
+        "Luxe Gold Satin Bow (As Pictured)",
+        "Rose Gold Satin",
+        "Ivory Silk"
+      ],
+      "hasPearlOption": true,
+      "messageCardOption": true,
+      "giftTagOption": true,
+      "stockStatus": "IN_STOCK",
+      "stockQuantity": 40,
+      "rating": 5,
+      "reviewCount": 76,
+      "isCustomisable": true,
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "isFestive": true,
+      "isLimitedEdition": false,
+      "occasions": [
+        "Anniversary",
+        "Valentine's Day",
+        "Engagement",
+        "Wedding"
+      ],
+      "tags": [
+        "7 roses",
+        "best seller",
+        "signature bouquet"
+      ],
+      "preparationTime": "5 DAYS",
+      "createdAt": "2026-08-14T04:11:25.029Z"
+    },
+    {
+      "id": "prod-premium-7-rose-bouquet",
+      "name": "Premium 7 Rose Royal Bouquet",
+      "slug": "premium-7-rose-bouquet",
+      "category": "premium-bouquet",
+      "price": 297,
+      "originalPrice": 350,
+      "discountPercent": 15,
+      "description": "Luxurious 7-Rose Satin Bouquet enhanced with fairy lights, pearl centers, double-layer Korean floral mesh wrap, and custom initial gift tag.",
+      "shortDescription": "Luxe 7 roses with fairy lights, mesh wrap & initial tag.",
+      "images": [
+        "/images/flora7-prod-1789661795688-b1bde.jpeg",
+        "/images/flora7-prod-1789661818478-7t8yi.jpeg",
+        "/images/flora7-prod-1789661830547-5lde8.jpeg",
+        "/images/flora7-prod-1789661839007-tko70.jpeg"
+      ],
+      "availableColours": [
+        "Blush Pink",
+        "Champagne Gold",
+        "Royal Red"
+      ],
+      "flowerType": "Jumbo Layered Satin Rose",
+      "numberOfFlowers": 7,
+      "sizeOptions": [
+        "Royal Grand Size"
+      ],
+      "wrappingOptions": [
+        "Cream Ivory Pearl Border",
+        "Midnight Black Pearl Lace"
+      ],
+      "ribbonColours": [
+        "Rose Gold Satin",
+        "Blush Organza"
+      ],
+      "hasPearlOption": true,
+      "messageCardOption": true,
+      "giftTagOption": true,
+      "stockStatus": "IN_STOCK",
+      "stockQuantity": 30,
+      "rating": 5,
+      "reviewCount": 64,
+      "isCustomisable": true,
+      "isBestSeller": true,
+      "isNewArrival": true,
+      "isFestive": true,
+      "isLimitedEdition": false,
+      "occasions": [
+        "Anniversary",
+        "Wedding",
+        "Valentine's Day",
+        "Proposal"
+      ],
+      "tags": [
+        "premium 7 roses",
+        "royal bouquet",
+        "fairy lights"
+      ],
+      "preparationTime": "1-2 days",
+      "createdAt": "2026-08-14T04:11:25.029Z"
+    },
+    {
+      "id": "prod-premium-9-rose-bouquet",
+      "name": "Premium 9 Rose Grand Bouquet",
+      "slug": "premium-9-rose-bouquet",
+      "category": "premium-bouquet",
+      "price": 397,
+      "originalPrice": 480,
+      "discountPercent": 17,
+      "description": "A grand 9-rose satin masterwork by Shwetha symbolizing complete devotion. Complete with LED fairy lights, pearl accents, crown topper, and message card.",
+      "shortDescription": "Grand 9-rose masterpiece with LED lights and mini crown.",
+      "images": [
+        "https://images.unsplash.com/photo-1561181286-d3fee7d55364?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1582794543139-8ac9cb0f7b11?auto=format&fit=crop&q=80&w=800"
+      ],
+      "availableColours": [
+        "Blush Pink & Ivory",
+        "Red & Gold",
+        "Lavender Symphony"
+      ],
+      "flowerType": "Handmade Satin Ribbon Rose",
+      "numberOfFlowers": 9,
+      "sizeOptions": [
+        "Grand Masterpiece (38cm)"
+      ],
+      "wrappingOptions": [
+        "Vintage Gold Border Wrap",
+        "Dusty Pink Matte"
+      ],
+      "ribbonColours": [
+        "Rose Gold Satin",
+        "Ivory Silk"
+      ],
+      "hasPearlOption": true,
+      "messageCardOption": true,
+      "giftTagOption": true,
+      "stockStatus": "IN_STOCK",
+      "stockQuantity": 25,
+      "rating": 5,
+      "reviewCount": 31,
+      "isCustomisable": true,
+      "isBestSeller": false,
+      "isNewArrival": true,
+      "isFestive": true,
+      "isLimitedEdition": true,
+      "occasions": [
+        "Anniversary",
+        "Proposal",
+        "Birthday",
+        "Diwali"
+      ],
+      "tags": [
+        "9 roses",
+        "grand bouquet",
+        "luxury flowers"
+      ],
+      "preparationTime": "2 days",
+      "createdAt": "2026-08-14T04:11:25.029Z"
+    },
+    {
+      "id": "prod-mini-bouquet-keychain",
+      "name": "Velvet pipe cleaner Keychain",
+      "slug": "mini-bouquet-keychain",
+      "category": "keychain",
+      "price": 47,
+      "originalPrice": 75,
+      "discountPercent": 37,
+      "description": "Adorable miniature satin ribbon bouquet attached to a sturdy gold-toned keychain clip. Carry Flora7 love everywhere on bags or keys!",
+      "shortDescription": "Handmade mini satin rose bouquet on a golden keychain clip.",
+      "images": [
+        "https://images.unsplash.com/photo-1590736969955-71cc94801759?auto=format&fit=crop&q=80&w=1000"
+      ],
+      "availableColours": [
+        "Blush Pink",
+        "Lavender",
+        "Sky Blue",
+        "Ivory"
+      ],
+      "flowerType": "Mini Satin Rose Bud",
+      "numberOfFlowers": 3,
+      "sizeOptions": [
+        "Keychain Size (8cm)"
+      ],
+      "wrappingOptions": [
+        "Mini Kraft Wrap",
+        "Mini Pink Paper"
+      ],
+      "ribbonColours": [
+        "Rose Gold Satin",
+        "Ivory Silk"
+      ],
+      "hasPearlOption": true,
+      "messageCardOption": false,
+      "giftTagOption": true,
+      "stockStatus": "IN_STOCK",
+      "stockQuantity": 120,
+      "rating": 4.9,
+      "reviewCount": 88,
+      "isCustomisable": true,
+      "isBestSeller": true,
+      "isNewArrival": true,
+      "isFestive": false,
+      "isLimitedEdition": false,
+      "occasions": [
+        "Friendship",
+        "Return Gift",
+        "Raksha Bandhan",
+        "Birthday"
+      ],
+      "tags": [
+        "keychain",
+        "mini bouquet",
+        "bag charm",
+        "handmade keychain"
+      ],
+      "preparationTime": "Same day dispatch",
+      "createdAt": "2026-08-14T04:11:25.029Z"
+    }
+  ],
+  "orders": [
+    {
+      "customerName": "Aarav Sharma",
+      "customerPhone": "+91 9876543210",
+      "customerEmail": "aarav.sharma.test@gmail.com",
+      "shippingAddress": "Flat 402, Lotus Greens, Indiranagar",
+      "landmark": "Near Metro Station",
+      "pincode": "560038",
+      "isPickup": false,
+      "deliveryDate": "2026-09-18",
+      "preferredSlot": "Evening (4 PM - 7 PM)",
+      "items": [
+        {
+          "id": "cart-1",
+          "productId": "prod-7-rose-bouquet",
+          "title": "Blushing Grace 7-Rose Satin Ribbon Bouquet",
+          "image": "/images/flora7-247-bouquet.jpeg",
+          "price": 1299,
+          "quantity": 1,
+          "customisationDetails": {
+            "numberOfFlowers": 7,
+            "flowerType": "Handmade Satin Ribbon Rose",
+            "colour": "Blush Pink & Ivory Cream",
+            "wrapping": "Dual-tone Korean Matte Paper (Blush & Pearl White)",
+            "ribbon": "Wine Red Double-faced Ribbon Bow",
+            "hasPearls": true,
+            "hasFairyLights": true,
+            "cardMessage": "Happy Anniversary my love, forever and always!"
+          }
+        }
+      ],
+      "subtotal": 1299,
+      "discountAmount": 0,
+      "deliveryFee": 100,
+      "totalAmount": 1399,
+      "paymentMethod": "UPI",
+      "paymentStatus": "PAID",
+      "giftMessage": "Happy Anniversary my love, forever and always!",
+      "id": "ord-1789456262482",
+      "orderNumber": "FLORA7-01002",
+      "createdAt": "2026-09-15T07:11:02.482Z",
+      "updatedAt": "2026-09-18T07:10:16.462Z",
+      "timeline": [
+        {
+          "status": "RECEIVED",
+          "label": "Order Received",
+          "description": "Your Flora7 order has been received and queued.",
+          "timestamp": "2026-09-15T07:11:02.482Z",
+          "completed": true
+        },
+        {
+          "status": "CONFIRMED",
+          "label": "Confirmed",
+          "description": "Order confirmed by Flora7 studio.",
+          "timestamp": "",
+          "completed": false
+        },
+        {
+          "status": "PREPARING",
+          "label": "Being Prepared",
+          "description": "Shwetha is hand-folding satin ribbon roses for your order.",
+          "timestamp": "",
+          "completed": false
+        },
+        {
+          "status": "READY",
+          "label": "Ready for Dispatch / Pickup",
+          "description": "Packed carefully with delicate ribbon bow.",
+          "timestamp": "",
+          "completed": false
+        },
+        {
+          "status": "OUT_FOR_DELIVERY",
+          "label": "Out for Delivery",
+          "description": "Handed to courier / driver.",
+          "timestamp": "",
+          "completed": false
+        },
+        {
+          "status": "COMPLETED",
+          "label": "Order Completed",
+          "description": "Delivered safely with love!",
+          "timestamp": "",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "ord-1001",
+      "orderNumber": "FLORA7-01001",
+      "customerName": "Manya",
+      "customerPhone": "9845012345",
+      "customerEmail": "manya@gmail.com",
+      "isPickup": false,
+      "shippingAddress": "Indiranagar, Bangalore - 560038",
+      "deliveryDate": "2026-08-15",
+      "preferredSlot": "Standard Delivery (10:00 AM - 6:00 PM)",
+      "items": [
+        {
+          "id": "cart-item-manya-1",
+          "productId": "prod-7-rose-bouquet",
+          "title": "7 Rose Classic Satin Bouquet (Sky Blue & Cream Ivory)",
+          "price": 247,
+          "quantity": 1,
+          "image": "/images/flora7-prod-1786682202966-kwoiv.jpeg",
+          "customisationDetails": {
+            "colour": "Sky Blue & Cream Ivory",
+            "wrapping": "Frosted Korean White with Gold Trim",
+            "ribbon": "Luxe Gold Satin Bow"
+          }
+        }
+      ],
+      "subtotal": 247,
+      "discountAmount": 0,
+      "deliveryFee": 0,
+      "totalAmount": 247,
+      "paymentMethod": "UPI",
+      "paymentStatus": "PAID",
+      "orderStatus": "RECEIVED",
+      "giftMessage": "Handmade with love!",
+      "specialInstructions": "Handcrafted satin ribbon bouquet",
+      "createdAt": "2026-08-14T06:30:00.000Z",
+      "updatedAt": "2026-08-14T06:30:00.000Z",
+      "timeline": [
+        {
+          "status": "RECEIVED",
+          "label": "Order Received",
+          "description": "Flora7 order for Manya has been received.",
+          "timestamp": "2026-08-14T06:30:00.000Z",
+          "completed": true
+        },
+        {
+          "status": "PREPARING",
+          "label": "Being Prepared",
+          "description": "Shwetha is hand-folding satin ribbon roses for Manya's bouquet.",
+          "timestamp": "",
+          "completed": false
+        },
+        {
+          "status": "READY",
+          "label": "Ready for Dispatch / Pickup",
+          "description": "Packed carefully with delicate ribbon bow.",
+          "timestamp": "",
+          "completed": false
+        },
+        {
+          "status": "OUT_FOR_DELIVERY",
+          "label": "Out for Delivery",
+          "description": "Handed to courier / delivery partner.",
+          "timestamp": "",
+          "completed": false
+        },
+        {
+          "status": "COMPLETED",
+          "label": "Order Completed",
+          "description": "Delivered safely with love!",
+          "timestamp": "",
+          "completed": false
+        }
+      ]
+    }
+  ],
+  "offlineBookings": [
+    {
+      "productOrConcept": "7 Classic Blue Colour Roses Bouquet",
+      "quantity": 1,
+      "customDetails": "Sky blue satin with pearl pins and black wrap",
+      "preferredDate": "2026-09-20",
+      "deliveryOrPickup": "DELIVERY",
+      "customerName": "Priya Sharma",
+      "customerPhone": "9845012345",
+      "customerEmail": "",
+      "shippingAddress": "",
+      "status": "CONFIRMED",
+      "quotedPrice": 247,
+      "advancePaid": 247,
+      "paymentMethod": "UPI",
+      "paymentStatus": "PAID",
+      "adminNotes": "",
+      "id": "off-1789715394573",
+      "bookingNumber": "FLORA7-OFF-0502",
+      "createdAt": "2026-09-18T07:09:54.573Z"
+    }
+  ],
+  "inventory": [
+    {
+      "id": "inv-1",
+      "name": "Satin Ribbon - Blush Pink (38mm)",
+      "category": "ribbon",
+      "colour": "Blush Pink",
+      "stockQuantity": 45,
+      "unit": "rolls",
+      "minAlertThreshold": 10,
+      "costPerUnit": 85,
+      "isAvailable": true,
+      "updatedAt": "2026-09-17T15:18:20.005Z",
+      "currentStock": 25
+    },
+    {
+      "id": "inv-2",
+      "name": "Satin Ribbon - Cream Ivory (38mm)",
+      "category": "ribbon",
+      "colour": "Cream Ivory",
+      "stockQuantity": 32,
+      "unit": "rolls",
+      "minAlertThreshold": 8,
+      "costPerUnit": 85,
+      "isAvailable": true,
+      "updatedAt": "2026-08-14T04:11:25.029Z"
+    },
+    {
+      "id": "inv-3",
+      "name": "Satin Ribbon - Passion Red (38mm)",
+      "category": "ribbon",
+      "colour": "Passion Red",
+      "stockQuantity": 28,
+      "unit": "rolls",
+      "minAlertThreshold": 8,
+      "costPerUnit": 85,
+      "isAvailable": true,
+      "updatedAt": "2026-08-14T04:11:25.029Z"
+    },
+    {
+      "id": "inv-4",
+      "name": "Korean Matte Wrapping Sheet - Dusty Pink",
+      "category": "wrapping",
+      "colour": "Dusty Pink",
+      "stockQuantity": 120,
+      "unit": "sheets",
+      "minAlertThreshold": 25,
+      "costPerUnit": 12,
+      "isAvailable": true,
+      "updatedAt": "2026-08-14T04:11:25.029Z"
+    },
+    {
+      "id": "inv-5",
+      "name": "Faux Pearl Cores (6mm)",
+      "category": "pearl",
+      "stockQuantity": 850,
+      "unit": "pcs",
+      "minAlertThreshold": 100,
+      "costPerUnit": 0.5,
+      "isAvailable": true,
+      "updatedAt": "2026-08-14T04:11:25.029Z"
+    },
+    {
+      "id": "inv-6",
+      "name": "Hot Glue Sticks (11mm)",
+      "category": "glue",
+      "stockQuantity": 60,
+      "unit": "pcs",
+      "minAlertThreshold": 15,
+      "costPerUnit": 6,
+      "isAvailable": true,
+      "updatedAt": "2026-08-14T04:11:25.029Z"
+    },
+    {
+      "id": "inv-7",
+      "name": "Gold Keychain Rings & Clips",
+      "category": "keychain",
+      "stockQuantity": 150,
+      "unit": "pcs",
+      "minAlertThreshold": 30,
+      "costPerUnit": 8,
+      "isAvailable": true,
+      "updatedAt": "2026-08-14T04:11:25.029Z"
+    },
+    {
+      "id": "inv-8",
+      "name": "Floral Bouquet Packaging Boxes",
+      "category": "packaging",
+      "stockQuantity": 40,
+      "unit": "pcs",
+      "minAlertThreshold": 10,
+      "costPerUnit": 25,
+      "isAvailable": true,
+      "updatedAt": "2026-08-14T04:11:25.029Z"
+    }
+  ],
+  "expenses": [
+    {
+      "id": "exp-1",
+      "date": "2026-08-14",
+      "category": "materials",
+      "amount": 680,
+      "description": "Satin ribbon rolls purchase from wholesale textile vendor",
+      "paymentMethod": "UPI",
+      "createdAt": "2026-08-14T04:11:25.176Z"
+    }
+  ],
+  "ownerTransactions": [
+    {
+      "id": "own-1",
+      "date": "2026-08-14",
+      "type": "CAPITAL_INVESTMENT",
+      "amount": 5000,
+      "description": "Initial Owner Capital injected by Shwetha for studio tools & raw material stock",
+      "createdAt": "2026-08-14T04:11:25.176Z"
+    }
+  ],
+  "coupons": [
+    {
+      "id": "c-flora10",
+      "code": "FLORA10",
+      "discountType": "PERCENTAGE",
+      "discountValue": 5,
+      "minOrderValue": 1,
+      "maxDiscountAmount": 100,
+      "startDate": "2026-01-01",
+      "expiryDate": "2026-12-31",
+      "usageLimit": 1000,
+      "usageCount": 42,
+      "perCustomerLimit": 5,
+      "active": true,
+      "description": "Get 5% OFF on your order with code FLORA10"
+    },
+    {
+      "id": "c-welcome10",
+      "code": "WELCOME10",
+      "discountType": "FIXED",
+      "discountValue": 30,
+      "minOrderValue": 147,
+      "startDate": "2026-01-01",
+      "expiryDate": "2026-12-31",
+      "usageLimit": 500,
+      "usageCount": 18,
+      "perCustomerLimit": 1,
+      "active": true,
+      "description": "₹30 FLAT OFF on your first Flora7 order!"
+    },
+    {
+      "id": "c-bloom15",
+      "code": "BLOOM15",
+      "discountType": "PERCENTAGE",
+      "discountValue": 15,
+      "minOrderValue": 297,
+      "maxDiscountAmount": 150,
+      "startDate": "2026-01-01",
+      "expiryDate": "2026-12-31",
+      "usageLimit": 300,
+      "usageCount": 12,
+      "perCustomerLimit": 1,
+      "active": true,
+      "description": "Special 15% OFF on premium bouquets"
+    },
+    {
+      "id": "c-festive20",
+      "code": "FESTIVE20",
+      "discountType": "PERCENTAGE",
+      "discountValue": 20,
+      "minOrderValue": 397,
+      "maxDiscountAmount": 200,
+      "startDate": "2026-01-01",
+      "expiryDate": "2026-12-31",
+      "usageLimit": 200,
+      "usageCount": 5,
+      "perCustomerLimit": 1,
+      "active": true,
+      "description": "Festive Season 20% OFF on grand bouquets"
+    }
+  ],
+  "offers": [
+    {
+      "id": "off-1",
+      "title": "Festive Bloom Offer",
+      "subtitle": "Get a complimentary Handmade Keychain Bouquet on orders above ₹399!",
+      "badgeText": "LIMITED TIME",
+      "ctaText": "SHOP FESTIVE",
+      "ctaLink": "/shop?category=festive",
+      "imageUrl": "https://images.unsplash.com/photo-1526047932273-341f2a7631f9?auto=format&fit=crop&q=80&w=800",
+      "active": true
+    },
+    {
+      "id": "off-2",
+      "title": "Customise Your Dream Bouquet",
+      "subtitle": "Pick your flower colours, ribbons & center pearls for special occasions.",
+      "badgeText": "CRAFTED BY SHWETHA",
+      "ctaText": "CUSTOMISE NOW",
+      "ctaLink": "/customise",
+      "imageUrl": "https://images.unsplash.com/photo-1563241527-3004b7be0ffd?auto=format&fit=crop&q=80&w=800",
+      "active": true
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "productId": "prod-7-rose-bouquet",
+      "productName": "7 Rose Classic Satin Bouquet",
+      "customerName": "Ananya R.",
+      "rating": 5,
+      "title": "Most beautiful flowers that never fade!",
+      "comment": "Ordered the 7 Rose Satin Bouquet in Blush Pink for my anniversary. Shwetha crafted it so delicately! The satin petals look so rich and realistic, plus my wife can keep it forever on her nightstand.",
+      "imageUrl": "https://images.unsplash.com/photo-1563241527-3004b7be0ffd?auto=format&fit=crop&q=80&w=800",
+      "verifiedPurchase": true,
+      "approved": true,
+      "createdAt": "2026-07-28"
+    },
+    {
+      "id": "rev-2",
+      "productId": "prod-single-rose",
+      "productName": "Single Satin Rose",
+      "customerName": "Karthik V.",
+      "rating": 5,
+      "title": "Super cute budget gift",
+      "comment": "Got 3 single satin roses for my friends on graduation. Packaging was top notch with a lovely ribbon bow.",
+      "verifiedPurchase": true,
+      "approved": true,
+      "createdAt": "2026-08-02"
+    },
+    {
+      "id": "rev-3",
+      "productId": "prod-mini-bouquet-keychain",
+      "productName": "Mini Bouquet Keychain",
+      "customerName": "Pooja M.",
+      "rating": 5,
+      "title": "Cutest keychain ever!",
+      "comment": "Attached it to my handbag and everyone keeps asking where I got it. Highly recommend Flora7!",
+      "verifiedPurchase": true,
+      "approved": true,
+      "createdAt": "2026-08-05"
+    }
+  ],
+  "deliveryAreas": [
+    {
+      "id": "del-1",
+      "pincode": "560001",
+      "areaName": "Bangalore Central / MG Road",
+      "city": "Bangalore",
+      "deliveryCharge": 40,
+      "active": true
+    },
+    {
+      "id": "del-2",
+      "pincode": "560034",
+      "areaName": "Koramangala",
+      "city": "Bangalore",
+      "deliveryCharge": 40,
+      "active": true
+    },
+    {
+      "id": "del-3",
+      "pincode": "560038",
+      "areaName": "Indiranagar",
+      "city": "Bangalore",
+      "deliveryCharge": 40,
+      "active": true
+    },
+    {
+      "id": "del-4",
+      "pincode": "560068",
+      "areaName": "BTM Layout / Silk Board",
+      "city": "Bangalore",
+      "deliveryCharge": 40,
+      "active": true
+    },
+    {
+      "id": "del-5",
+      "pincode": "560100",
+      "areaName": "Electronic City",
+      "city": "Bangalore",
+      "deliveryCharge": 40,
+      "active": true
+    }
+  ],
+  "websiteContent": {
+    "heroTitle": "FLORA7",
+    "heroTagline": "LOVE UNFOLDED",
+    "heroSubtitle": "Handmade flowers, crafted with love and made to last.",
+    "aboutStory": "Flora7 was born out of a passion for eternal florals and handmade artistry. Each satin ribbon rose is individually shaped, folded, and assembled by hand to create everlasting gifts that never fade.",
+    "craftedByShwethaText": "Every piece is personally hand-crafted by Shwetha with utmost attention to ribbon texture, color harmony, and delicate embellishments.",
+    "contactPhone": "+91 6360084897",
+    "contactWhatsapp": "+916360084897",
+    "contactEmail": "flora7loveunfolded@gmail.com",
+    "storeAddress": "Flora7 Online Studio, Bangalore, India",
+    "pickupTimings": "Mon - Sat: 10:00 AM - 7:00 PM",
+    "privacyPolicy": "At Flora7, we respect your privacy. Customer contact details and addresses are strictly used for fulfilling flower orders and delivery notifications.",
+    "termsConditions": "All Flora7 creations are 100% handmade upon order. Minor handcrafted variations add to their unique bespoke beauty.",
+    "deliveryPolicy": "Local Bangalore orders are delivered within 1-2 days via courier or direct studio pickup in Koramangala.",
+    "cancellationPolicy": "Orders can be cancelled or modified within 4 hours of placement before hand-crafting commences.",
+    "returnPolicy": "Due to the custom handmade nature of our products, returns are accepted in case of shipping damage or defective items."
+  },
+  "customOptions": {
+    "flowerTypes": [
+      {
+        "id": "satin-rose",
+        "name": "Handmade Satin Ribbon Rose",
+        "pricePerFlower": 25,
+        "isAvailable": true
+      },
+      {
+        "id": "satin-tulip",
+        "name": "Satin Ribbon Tulip",
+        "pricePerFlower": 30,
+        "isAvailable": true
+      },
+      {
+        "id": "hybrid-mix",
+        "name": "Satin Rose & Tulip Hybrid",
+        "pricePerFlower": 28,
+        "isAvailable": true
+      },
+      {
+        "id": "jumbo-rose",
+        "name": "Jumbo Layered Satin Rose",
+        "pricePerFlower": 45,
+        "isAvailable": true
+      },
+      {
+        "id": "mini-bud",
+        "name": "Mini Satin Rose Bud",
+        "pricePerFlower": 18,
+        "isAvailable": true
+      }
+    ],
+    "flowerColours": [
+      {
+        "id": "blush-pink",
+        "name": "Blush Pink",
+        "hex": "#F4B8C7",
+        "isAvailable": true
+      },
+      {
+        "id": "cream-ivory",
+        "name": "Cream Ivory",
+        "hex": "#FFFDD0",
+        "isAvailable": true
+      },
+      {
+        "id": "passion-red",
+        "name": "Passion Red",
+        "hex": "#C41E3A",
+        "isAvailable": true
+      },
+      {
+        "id": "soft-lavender",
+        "name": "Soft Lavender",
+        "hex": "#E6E6FA",
+        "isAvailable": true
+      },
+      {
+        "id": "champagne-gold",
+        "name": "Champagne Gold",
+        "hex": "#F7E7CE",
+        "isAvailable": true
+      },
+      {
+        "id": "sky-blue",
+        "name": "Sky Blue",
+        "hex": "#87CEEB",
+        "isAvailable": true
+      },
+      {
+        "id": "rose-gold",
+        "name": "Rose Gold",
+        "hex": "#B76E79",
+        "isAvailable": true
+      },
+      {
+        "id": "deep-maroon",
+        "name": "Deep Maroon",
+        "hex": "#800020",
+        "isAvailable": true
+      }
+    ],
+    "wrappingColours": [
+      {
+        "id": "dusty-pink",
+        "name": "Dusty Pink Matte Sheet",
+        "hex": "#DCAEAE",
+        "isAvailable": true
+      },
+      {
+        "id": "cream-white",
+        "name": "Cream Ivory Pearl Border",
+        "hex": "#FDFBF7",
+        "isAvailable": true
+      },
+      {
+        "id": "kraft-gold",
+        "name": "Vintage Gold Border Wrap",
+        "hex": "#D4AF37",
+        "isAvailable": true
+      },
+      {
+        "id": "soft-purple",
+        "name": "Soft Lavender Matte",
+        "hex": "#D8C4E8",
+        "isAvailable": true
+      },
+      {
+        "id": "midnight-black",
+        "name": "Midnight Black Pearl Lace",
+        "hex": "#2B2B2B",
+        "isAvailable": true
+      }
+    ],
+    "ribbonColours": [
+      {
+        "id": "rose-gold-satin",
+        "name": "Rose Gold Satin Ribbon",
+        "hex": "#B76E79",
+        "isAvailable": true
+      },
+      {
+        "id": "ivory-silk",
+        "name": "Ivory Silk Ribbon",
+        "hex": "#FFFFF0",
+        "isAvailable": true
+      },
+      {
+        "id": "blush-organza",
+        "name": "Blush Pink Sheer Organza",
+        "hex": "#F4B8C7",
+        "isAvailable": true
+      },
+      {
+        "id": "burgundy-velvet",
+        "name": "Burgundy Velvet Edge",
+        "hex": "#800020",
+        "isAvailable": true
+      }
+    ],
+    "bouquetSizes": [
+      {
+        "id": "mini",
+        "name": "Mini Petite (3 Flowers)",
+        "flowerCountMin": 3,
+        "basePrice": 120
+      },
+      {
+        "id": "classic",
+        "name": "Classic Elegance (7 Flowers)",
+        "flowerCountMin": 7,
+        "basePrice": 220
+      },
+      {
+        "id": "grand",
+        "name": "Grand Deluxe (12 Flowers)",
+        "flowerCountMin": 12,
+        "basePrice": 380
+      },
+      {
+        "id": "luxury",
+        "name": "Luxury Royal (21+ Flowers)",
+        "flowerCountMin": 21,
+        "basePrice": 650
+      }
+    ],
+    "bowStyles": [
+      {
+        "id": "classic-double",
+        "name": "Classic Double Loop Satin Bow",
+        "price": 0
+      },
+      {
+        "id": "pearl-studded",
+        "name": "Pearl-Studded Luxe Bow",
+        "price": 25
+      },
+      {
+        "id": "minimalist-knot",
+        "name": "Minimalist Silk Knot",
+        "price": 10
+      }
+    ],
+    "addOns": [
+      {
+        "id": "centre-pearls",
+        "name": "Pearl Core in Each Flower",
+        "price": 20,
+        "icon": "Sparkles"
+      },
+      {
+        "id": "led-fairy-lights",
+        "name": "Warm LED Fairy Lights",
+        "price": 50,
+        "icon": "Lightbulb"
+      },
+      {
+        "id": "greeting-card",
+        "name": "Custom Printed Handwritten Card",
+        "price": 25,
+        "icon": "FileText"
+      },
+      {
+        "id": "butterflies",
+        "name": "Golden Metallic Butterflies (Set of 2)",
+        "price": 30,
+        "icon": "Heart"
+      },
+      {
+        "id": "gift-tag-initial",
+        "name": "Custom Wooden/Acrylic Initial Tag",
+        "price": 35,
+        "icon": "Tag"
+      }
+    ]
+  },
+  "admins": [
+    {
+      "id": "admin-1",
+      "email": "flora7loveunfolded@gmail.com",
+      "passwordHash": "$2b$10$FlOBRGmdOrWjKGS.qYZLiuwWr1Wy8hL5LcRNz0ZZR14bNYo.k9dGK",
+      "name": "Flora7 Owner",
+      "role": "OWNER"
+    }
+  ],
+  "orderCounter": 1002,
+  "bookingCounter": 502,
+  "emailSettings": {
+    "ownerEmails": [
+      "flora7loveunfolded@gmail.com"
+    ],
+    "notifyOnNewOrder": true,
+    "notifyOnStatusChange": true,
+    "notifyOnCustomBooking": true,
+    "notifyCustomerOnReceipt": true,
+    "notifyCustomerOnStatusChange": true,
+    "fromName": "Flora7 Handmade Studio",
+    "fromEmail": "Flora7 Studio <flora7loveunfolded@gmail.com>"
+  },
+  "emailLogs": [
+    {
+      "orderId": "test-delivered-101",
+      "orderNumber": "ORD-DELIV-101",
+      "recipient": "priya@example.com",
+      "recipientType": "CUSTOMER",
+      "subject": "🌸 Flora7 Order Update: ORD-DELIV-101 is now DELIVERED",
+      "htmlBody": "\n  <!DOCTYPE html>\n  <html>\n  <head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>Your Flora7 Order Confirmation - ORD-DELIV-101</title>\n  </head>\n  <body style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background-color: #fdf6f7; margin: 0; padding: 24px 12px;\">\n    <div style=\"max-width: 600px; margin: 0 auto; background: #ffffff; border-radius: 20px; overflow: hidden; border: 1px solid #fce7f0; box-shadow: 0 4px 20px rgba(183, 110, 121, 0.1);\">\n      \n      <!-- Top Banner -->\n      <div style=\"background: linear-gradient(135deg, #5c2533 0%, #b76e79 100%); padding: 30px 20px; text-align: center; color: #ffffff;\">\n        <div style=\"font-size: 24px; font-weight: 800; letter-spacing: 2px;\">FLORA7</div>\n        <div style=\"font-size: 11px; letter-spacing: 3px; color: #fce7f0; margin-top: 3px;\">LOVE UNFOLDED • HANDMADE BLOOMS</div>\n        <div style=\"margin-top: 16px; font-size: 16px; font-weight: 700;\">🌸 Order Confirmed! Thank You, Priya Sharma!</div>\n      </div>\n\n      <div style=\"padding: 24px;\">\n        <p style=\"font-size: 14px; color: #3d1822; line-height: 1.6; margin-top: 0;\">\n          We are delighted to confirm that your Flora7 order <strong>ORD-DELIV-101</strong> has been received! Shwetha is already preparing your everlasting satin ribbon flowers with utmost love, patience, and meticulous craftsmanship.\n        </p>\n\n        <!-- Order & Fulfillment Box -->\n        <div style=\"background: #fff9fa; border: 1px solid #fce7f0; border-radius: 14px; padding: 16px; margin: 20px 0; font-size: 13px;\">\n          <table style=\"width: 100%; border-collapse: collapse; font-size: 13px;\">\n            <tr>\n              <td style=\"padding: 5px 0; color: #8c5263; width: 40%;\">Order Number:</td>\n              <td style=\"padding: 5px 0; font-weight: 800; color: #5c2533; text-align: right;\">ORD-DELIV-101</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 5px 0; color: #8c5263;\">Delivery / Pickup Date:</td>\n              <td style=\"padding: 5px 0; font-weight: 700; color: #3d1822; text-align: right;\">2026-09-22 (Morning (9 AM - 12 PM))</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 5px 0; color: #8c5263; vertical-align: top;\">Fulfillment Details:</td>\n              <td style=\"padding: 5px 0; font-weight: 600; color: #3d1822; text-align: right;\">\n                🚚 Home Delivery: Villa 14, Palm Meadows, Whitefield (Landmark: Near Club House) (560066)\n              </td>\n            </tr>\n            <tr>\n              <td style=\"padding: 5px 0; color: #8c5263;\">Payment:</td>\n              <td style=\"padding: 5px 0; font-weight: 700; color: #166534; text-align: right;\">UPI_QR • PAID</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 5px 0; color: #8c5263;\">Order Status:</td>\n              <td style=\"padding: 5px 0; font-weight: 800; color: #b76e79; text-align: right;\">Confirmed & Preparing</td>\n            </tr>\n          </table>\n        </div>\n\n        \n\n        <!-- Detailed Product Breakdown -->\n        <div style=\"margin: 24px 0 16px 0;\">\n          <div style=\"font-weight: 800; color: #5c2533; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; border-bottom: 2px solid #fce7f0; padding-bottom: 6px;\">\n            Your Ordered Products & Details (1)\n          </div>\n          \n    <div style=\"background: #ffffff; border: 1.5px solid #fce7f0; border-radius: 14px; padding: 16px; margin-bottom: 16px; box-shadow: 0 2px 8px rgba(183, 110, 121, 0.05);\">\n      <table style=\"width: 100%; border-collapse: collapse;\">\n        <tr>\n          \n          <td style=\"vertical-align: top;\">\n            <div style=\"font-weight: 800; color: #5c2533; font-size: 15px; font-family: Georgia, serif;\">Forever Satin Rose Bouquet (12 Blooms)</div>\n            <div style=\"font-size: 12px; color: #b76e79; font-weight: 700; margin-top: 2px;\">\n              Quantity: 1 × ₹1499 &nbsp;•&nbsp; <span style=\"color: #5c2533;\">Total: ₹1499</span>\n            </div>\n            \n            <!-- Detailed Description of the Product -->\n            <div style=\"font-size: 12px; color: #5e5254; line-height: 1.5; margin-top: 8px; background: #fff9fa; padding: 8px 12px; border-radius: 8px; border-left: 3px solid #b76e79;\">\n              <strong style=\"color: #5c2533;\">Product Overview:</strong> Everlasting handcrafted satin ribbon flower arrangement. Each petal is individually cut, shaped, and flame-sealed by hand for an exquisite, lifelong romantic keepsake.\n            </div>\n          </td>\n        </tr>\n      </table>\n\n      <!-- Product & Craftsmanship Specifications -->\n      <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed #fce7f0;\">\n        <div style=\"font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px; color: #8c5263; margin-bottom: 8px;\">\n          🌸 Detailed Product Specifications & Customizations:\n        </div>\n        <table style=\"width: 100%; font-size: 12px; border-collapse: collapse;\">\n          <tr>\n            <td style=\"padding: 3px 0; color: #7a4654; width: 45%;\"><strong>Flower Composition:</strong></td>\n            <td style=\"padding: 3px 0; color: #3d1822; text-align: right;\">1 × Handmade Satin Ribbon Rose</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 3px 0; color: #7a4654;\"><strong>Selected Colors:</strong></td>\n            <td style=\"padding: 3px 0; color: #3d1822; text-align: right; font-weight: 600;\">Signature Rose Hue</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 3px 0; color: #7a4654;\"><strong>Floral Wrapping:</strong></td>\n            <td style=\"padding: 3px 0; color: #3d1822; text-align: right;\">Premium Waterproof Korean Matte Floral Paper</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 3px 0; color: #7a4654;\"><strong>Satin Ribbon Bow:</strong></td>\n            <td style=\"padding: 3px 0; color: #3d1822; text-align: right;\">Lustrous Satin Ribbon Bow</td>\n          </tr>\n          \n          \n          \n          \n        </table>\n      </div>\n    </div>\n    \n        </div>\n\n        <!-- Price Summary -->\n        <div style=\"background: #faf5f6; border-radius: 14px; padding: 16px; margin-bottom: 24px;\">\n          <table style=\"width: 100%; border-collapse: collapse; font-size: 13px;\">\n            <tr>\n              <td style=\"padding: 4px 0; color: #7a4654;\">Subtotal:</td>\n              <td style=\"padding: 4px 0; font-weight: 600; text-align: right; color: #3d1822;\">₹1499</td>\n            </tr>\n            \n            <tr>\n              <td style=\"padding: 4px 0; color: #7a4654;\">Delivery:</td>\n              <td style=\"padding: 4px 0; font-weight: 600; text-align: right; color: #3d1822;\">FREE</td>\n            </tr>\n            <tr style=\"border-top: 1.5px solid #f4b8c7;\">\n              <td style=\"padding: 8px 0 2px 0; font-weight: 800; font-size: 15px; color: #5c2533;\">Total Paid:</td>\n              <td style=\"padding: 8px 0 2px 0; font-weight: 800; font-size: 17px; text-align: right; color: #b76e79;\">₹1499</td>\n            </tr>\n          </table>\n        </div>\n\n        <!-- Care Guide -->\n        <div style=\"background: #fff9fa; border-left: 3px solid #b76e79; border-radius: 8px; padding: 12px 14px; margin-bottom: 24px; font-size: 12px; color: #5e5254; line-height: 1.5;\">\n          <strong style=\"color: #5c2533;\">🌸 Keepsake Flower Care:</strong> Unlike fresh flowers, your Flora7 handmade satin blooms will never wilt, fade, or dry! Keep them away from open flames and extreme dampness. If dust settles over time, lightly blow with a hairdryer on the cool setting.\n        </div>\n\n        <!-- Action Button -->\n        <div style=\"text-align: center; margin: 24px 0;\">\n          <a href=\"https://flora7.com/my-orders\" style=\"display: inline-block; background: #b76e79; color: #ffffff; font-weight: 700; font-size: 13px; text-decoration: none; padding: 12px 28px; border-radius: 30px; box-shadow: 0 4px 12px rgba(183, 110, 121, 0.25);\">\n            Track Your Order Live →\n          </a>\n        </div>\n\n        <!-- Contact Support -->\n        <div style=\"font-size: 12px; color: #8c5263; line-height: 1.6; text-align: center; border-top: 1px solid #fce7f0; padding-top: 18px;\">\n          Have questions or want to customize your card message? You can reply directly to this email at <a href=\"mailto:flora7loveunfolded@gmail.com\" style=\"color: #b76e79; font-weight: 700; text-decoration: none;\">flora7loveunfolded@gmail.com</a> or message Shwetha on WhatsApp: <strong>+91 98450 12345</strong>.<br />\n          Follow our creations on Instagram: <a href=\"https://instagram.com/flora7loveunfolded\" style=\"color: #b76e79; font-weight: 700; text-decoration: none;\">@flora7loveunfolded</a>.\n        </div>\n      </div>\n\n      <!-- Footer -->\n      <div style=\"background: #fff9fa; border-top: 1px solid #fce7f0; padding: 14px; text-align: center; font-size: 11px; color: #8c5263;\">\n        Flora7 • Forever Satin Blooms Crafted by Shwetha • Sent through flora7loveunfolded@gmail.com\n      </div>\n    </div>\n  </body>\n  </html>\n  ",
+      "textBody": "Your Flora7 order ORD-DELIV-101 status has been updated to: DELIVERED.",
+      "status": "LOGGED",
+      "id": "elog-1790059322153-ztnz",
+      "timestamp": "2026-09-22T06:42:02.153Z"
+    },
+    {
+      "orderId": "test-delivered-101",
+      "orderNumber": "ORD-DELIV-101",
+      "recipient": "flora7loveunfolded@gmail.com",
+      "recipientType": "OWNER",
+      "subject": "🌸 [Delivered & Completed] Order ORD-DELIV-101 - Priya Sharma (₹1499)",
+      "htmlBody": "\n  <!DOCTYPE html>\n  <html>\n  <head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>Order Details - ORD-DELIV-101</title>\n  </head>\n  <body style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; background-color: #fdf6f7; margin: 0; padding: 24px 12px;\">\n    <div style=\"max-width: 620px; margin: 0 auto; background: #ffffff; border-radius: 20px; overflow: hidden; box-shadow: 0 4px 20px rgba(183, 110, 121, 0.12); border: 1px solid #fce7f0;\">\n      \n      <!-- Header Banner -->\n      <div style=\"background: linear-gradient(135deg, #5c2533 0%, #8c3b52 100%); padding: 28px 24px; text-align: center; color: #ffffff;\">\n        <div style=\"font-size: 24px; font-weight: 800; letter-spacing: 2px;\">FLORA7</div>\n        <div style=\"font-size: 12px; letter-spacing: 3px; color: #f4b8c7; margin-top: 4px; text-transform: uppercase;\">Handmade Satin Ribbon Flowers</div>\n        <div style=\"margin-top: 14px; display: inline-block; background: #ffffff; color: #5c2533; font-size: 13px; font-weight: 800; padding: 6px 16px; border-radius: 30px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);\">\n          ✅ ORDER DELIVERED & COMPLETED: ORD-DELIV-101\n        </div>\n        <div style=\"margin-top: 8px; font-size: 11.5px; color: #ffd6e0; letter-spacing: 0.5px;\">\n          📬 Owner Notification sent to: <strong>flora7loveunfolded@gmail.com</strong>\n        </div>\n      </div>\n\n      <!-- Main Body -->\n      <div style=\"padding: 24px;\">\n        <div style=\"font-size: 16px; color: #3d1822; line-height: 1.5; margin-bottom: 20px;\">\n          Hello <strong>Shwetha</strong>, here are the complete order specifications and fulfillment records for <strong>Delivered Order ORD-DELIV-101</strong>:\n        </div>\n\n        \n        <!-- Delivered Confirmation Card -->\n        <div style=\"background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 12px; padding: 14px 16px; margin-bottom: 20px; font-size: 13px; color: #166534; line-height: 1.5;\">\n          <strong style=\"font-size: 14px;\">✅ Product Delivery Confirmed:</strong><br />\n          This order has been fulfilled and delivered to customer <strong>Priya Sharma</strong>. All customer contacts, bouquet craft specifications, address details, and financial records remain permanently recorded for your studio records.\n        </div>\n        \n\n        <!-- Order Summary Card -->\n        <div style=\"background: #fff9fa; border: 1px solid #fce7f0; border-radius: 14px; padding: 18px; margin-bottom: 24px;\">\n          <table style=\"width: 100%; border-collapse: collapse; font-size: 13px;\">\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263; width: 42%;\">Order Number:</td>\n              <td style=\"padding: 6px 0; font-weight: 800; color: #5c2533; text-align: right;\">ORD-DELIV-101</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Order Placed:</td>\n              <td style=\"padding: 6px 0; font-weight: 600; color: #3d1822; text-align: right;\">Tuesday, 22 September 2026 at 12:12 pm IST</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Current Status:</td>\n              <td style=\"padding: 6px 0; font-weight: 800; color: #b76e79; text-align: right;\">\n                <span style=\"background: #fdf2f4; border: 1px solid #f4b8c7; color: #5c2533; padding: 2px 10px; border-radius: 12px; font-size: 11px; text-transform: uppercase;\">\n                  DELIVERED\n                </span>\n              </td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Customer Name:</td>\n              <td style=\"padding: 6px 0; font-weight: 700; color: #3d1822; text-align: right;\">Priya Sharma</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Customer Phone:</td>\n              <td style=\"padding: 6px 0; font-weight: 700; color: #3d1822; text-align: right;\">\n                <a href=\"tel:+91 98765 43210\" style=\"color: #b76e79; text-decoration: none;\">+91 98765 43210</a>\n              </td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Customer Email:</td>\n              <td style=\"padding: 6px 0; font-weight: 600; color: #3d1822; text-align: right;\">\n                <a href=\"mailto:priya@example.com\" style=\"color: #b76e79; text-decoration: none;\">priya@example.com</a>\n              </td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Fulfillment Type:</td>\n              <td style=\"padding: 6px 0; font-weight: 700; color: #5c2533; text-align: right;\">🚚 Home Delivery</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Target Date & Slot:</td>\n              <td style=\"padding: 6px 0; font-weight: 700; color: #3d1822; text-align: right;\">2026-09-22 (Morning (9 AM - 12 PM))</td>\n            </tr>\n            \n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263; vertical-align: top;\">Delivery Address:</td>\n              <td style=\"padding: 6px 0; font-weight: 600; color: #3d1822; text-align: right;\">\n                Villa 14, Palm Meadows, Whitefield\n                <br /><span style=\"font-size: 11px; color: #7a4654;\">Landmark: Near Club House</span>\n                 (560066)\n              </td>\n            </tr>\n            \n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Payment:</td>\n              <td style=\"padding: 6px 0; text-align: right;\">\n                <span style=\"display: inline-block; background: #f0fdf4; border: 1px solid #bbf7d0; color: #15803d; padding: 3px 10px; border-radius: 12px; font-weight: 800; font-size: 12px;\">\n                  UPI_QR • PAID\n                </span>\n              </td>\n            </tr>\n          </table>\n        </div>\n\n        <!-- Special Notes / Gift Message -->\n        \n\n        <!-- Items with Detailed Product Descriptions -->\n        <div style=\"margin-bottom: 24px;\">\n          <div style=\"font-weight: 800; color: #5c2533; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; border-bottom: 2px solid #fce7f0; padding-bottom: 6px;\">\n            Ordered Items & Detailed Descriptions (1)\n          </div>\n          \n    <div style=\"background: #ffffff; border: 1.5px solid #fce7f0; border-radius: 14px; padding: 16px; margin-bottom: 16px;\">\n      <table style=\"width: 100%; border-collapse: collapse;\">\n        <tr>\n          \n          <td style=\"vertical-align: top;\">\n            <div style=\"font-weight: 800; color: #5c2533; font-size: 15px; font-family: Georgia, serif;\">Forever Satin Rose Bouquet (12 Blooms)</div>\n            <div style=\"font-size: 12px; color: #8c5263; margin-top: 3px; font-weight: 600;\">\n              Quantity: <strong>1</strong> × ₹1499 &nbsp;•&nbsp; <span style=\"color: #b76e79;\">Item Total: ₹1499</span>\n            </div>\n            <div style=\"background: #fff9fa; padding: 8px 12px; border-radius: 8px; margin-top: 8px; font-size: 11.5px; color: #5e5254; border-left: 3px solid #b76e79; line-height: 1.5;\">\n              <strong>Product Description:</strong> Everlasting handcrafted satin ribbon flower arrangement. Each petal is individually cut, shaped, and flame-sealed by hand for an exquisite, lifelong romantic keepsake.\n            </div>\n          </td>\n        </tr>\n      </table>\n\n      <!-- Specifications for Owner Assembly -->\n      <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed #fce7f0; font-size: 12px; color: #3d1822;\">\n        <div style=\"font-size: 11px; font-weight: 800; color: #b76e79; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px;\">\n          ✂️ Assembly & Crafting Specifications:\n        </div>\n        <table style=\"width: 100%; border-collapse: collapse; font-size: 12px;\">\n          <tr>\n            <td style=\"padding: 2px 0; color: #7a4654; width: 40%;\"><strong>Flowers:</strong></td>\n            <td style=\"padding: 2px 0; color: #3d1822;\">1 × Handmade Satin Ribbon Rose</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 2px 0; color: #7a4654;\"><strong>Color(s):</strong></td>\n            <td style=\"padding: 2px 0; color: #3d1822; font-weight: 600;\">Signature Rose Hue</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 2px 0; color: #7a4654;\"><strong>Wrapping Paper:</strong></td>\n            <td style=\"padding: 2px 0; color: #3d1822;\">Premium Waterproof Korean Matte Floral Paper</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 2px 0; color: #7a4654;\"><strong>Ribbon Bow:</strong></td>\n            <td style=\"padding: 2px 0; color: #3d1822;\">Lustrous Satin Ribbon Bow</td>\n          </tr>\n          \n          \n          \n          \n        </table>\n      </div>\n    </div>\n    \n        </div>\n\n        <!-- Financial Totals -->\n        <div style=\"background: #faf5f6; border-radius: 12px; padding: 16px; margin-bottom: 28px;\">\n          <table style=\"width: 100%; border-collapse: collapse; font-size: 13px;\">\n            <tr>\n              <td style=\"padding: 4px 0; color: #7a4654;\">Subtotal:</td>\n              <td style=\"padding: 4px 0; font-weight: 600; text-align: right; color: #3d1822;\">₹1499</td>\n            </tr>\n            \n            <tr>\n              <td style=\"padding: 4px 0; color: #7a4654;\">Delivery Fee:</td>\n              <td style=\"padding: 4px 0; font-weight: 600; text-align: right; color: #3d1822;\">FREE</td>\n            </tr>\n            <tr style=\"border-top: 1.5px solid #f4b8c7;\">\n              <td style=\"padding: 10px 0 4px 0; font-weight: 800; font-size: 16px; color: #5c2533;\">Total Order Amount:</td>\n              <td style=\"padding: 10px 0 4px 0; font-weight: 800; font-size: 18px; text-align: right; color: #b76e79;\">₹1499</td>\n            </tr>\n          </table>\n        </div>\n\n        <!-- Quick Action Buttons for Owner -->\n        <div style=\"text-align: center; margin-bottom: 16px;\">\n          <a href=\"https://flora7.com/admin/dashboard\" style=\"display: inline-block; background: #5c2533; color: #ffffff; font-weight: 800; font-size: 14px; text-decoration: none; padding: 14px 28px; border-radius: 30px; letter-spacing: 0.5px; box-shadow: 0 4px 12px rgba(92, 37, 51, 0.25);\">\n            Open Owner Portal to Manage Order →\n          </a>\n        </div>\n        <div style=\"text-align: center; display: flex; justify-content: center; gap: 16px; margin-top: 10px;\">\n          <a href=\"https://wa.me/919876543210?text=Hi%20Priya%20Sharma,%20thank%20you%20for%20your%20order%20ORD-DELIV-101%20at%20Flora7!%20Shwetha%20here%20from%20Flora7.\" style=\"font-size: 13px; color: #16a34a; font-weight: 700; text-decoration: none; padding: 6px 12px; background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 20px; display: inline-block;\">\n            💬 WhatsApp Customer Directly\n          </a>\n          <a href=\"tel:+91 98765 43210\" style=\"font-size: 13px; color: #5c2533; font-weight: 700; text-decoration: none; padding: 6px 12px; background: #fdf2f4; border: 1px solid #f4b8c7; border-radius: 20px; display: inline-block;\">\n            📞 Call Customer\n          </a>\n        </div>\n\n      </div>\n\n      <!-- Footer -->\n      <div style=\"background: #fff9fa; border-top: 1px solid #fce7f0; padding: 16px; text-align: center; font-size: 11px; color: #8c5263;\">\n        Flora7 Handmade Studio • Bangalore, India • Crafted with Love by Shwetha<br />\n        This is an automated notification from your Flora7 online store sent to <strong>flora7loveunfolded@gmail.com</strong>.\n      </div>\n    </div>\n  </body>\n  </html>\n  ",
+      "textBody": "===============================================================\n🌸 FLORA7 HANDMADE FLOWER STUDIO - ORDER DELIVERED & COMPLETED SUMMARY\n===============================================================\n\nNotification sent to: flora7loveunfolded@gmail.com\nOrder ID: ORD-DELIV-101\nPlaced On: Tuesday, 22 September 2026 at 12:12 pm IST\nOrder Status: DELIVERED (PRODUCT DELIVERED TO CUSTOMER)\n\n1. CUSTOMER INFORMATION\n---------------------------------------------------------------\nName: Priya Sharma\nPhone: +91 98765 43210\nEmail: priya@example.com\nWhatsApp: https://wa.me/919876543210?text=Hi%20Priya%20Sharma,%20thank%20you%20for%20your%20order%20ORD-DELIV-101%20at%20Flora7!\n\n2. DELIVERY / FULFILLMENT SPECIFICATIONS\n---------------------------------------------------------------\nFulfillment Type: 🚚 Home Delivery\nTarget Date: 2026-09-22\nPreferred Time Slot: Morning (9 AM - 12 PM)\nDelivery Address: Villa 14, Palm Meadows, Whitefield\nLandmark: Near Club House\nPincode: 560066\nDelivery Status: ✅ Product successfully delivered to customer\n\n\n3. PAYMENT & FINANCIAL STATUS\n---------------------------------------------------------------\nPayment Method: UPI_QR\nPayment Status: PAID\nItems Subtotal: ₹1499\nDelivery Charge: FREE\n---------------------------------------------------------------\nTOTAL ORDER AMOUNT: ₹1499\n---------------------------------------------------------------\n\n4. GIFT CARD MESSAGE & CUSTOMER INSTRUCTIONS\n---------------------------------------------------------------\nGift Message: None specified\nSpecial Delivery Instructions: None\n\n5. ITEM & HANDCRAFT SPECIFICATIONS (1 Item)\n---------------------------------------------------------------\n1. Forever Satin Rose Bouquet (12 Blooms) (Qty: 1 × ₹1499 = ₹1499)\n   Description: Everlasting handcrafted satin ribbon flower arrangement. Each petal is individually cut, shaped, and flame-sealed by hand for an exquisite, lifelong romantic keepsake.\n   • Flower Specs: 1x Handmade Satin Ribbon Rose\n   • Flower Color(s): Signature Rose Hue\n   • Wrapping Paper: Premium Waterproof Korean Matte Floral Paper\n   • Ribbon Bow: Lustrous Satin Ribbon Bow\n\n===============================================================\nMANAGE ORDER IN OWNER PORTAL:\nhttps://flora7.com/admin/dashboard\n\nFlora7 Handmade Studio • Bangalore, India\nCrafted with love by Shwetha\n===============================================================",
+      "status": "LOGGED",
+      "id": "elog-1790059322149-nj7o",
+      "timestamp": "2026-09-22T06:42:02.149Z"
+    },
+    {
+      "orderId": "test-delivered-1",
+      "orderNumber": "ORD-TEST-DELIV-99",
+      "recipient": "aarohi.sen@example.com",
+      "recipientType": "CUSTOMER",
+      "subject": "🌸 Flora7 Order Update: ORD-TEST-DELIV-99 is now DELIVERED",
+      "htmlBody": "\n  <!DOCTYPE html>\n  <html>\n  <head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>Your Flora7 Order Confirmation - ORD-TEST-DELIV-99</title>\n  </head>\n  <body style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background-color: #fdf6f7; margin: 0; padding: 24px 12px;\">\n    <div style=\"max-width: 600px; margin: 0 auto; background: #ffffff; border-radius: 20px; overflow: hidden; border: 1px solid #fce7f0; box-shadow: 0 4px 20px rgba(183, 110, 121, 0.1);\">\n      \n      <!-- Top Banner -->\n      <div style=\"background: linear-gradient(135deg, #5c2533 0%, #b76e79 100%); padding: 30px 20px; text-align: center; color: #ffffff;\">\n        <div style=\"font-size: 24px; font-weight: 800; letter-spacing: 2px;\">FLORA7</div>\n        <div style=\"font-size: 11px; letter-spacing: 3px; color: #fce7f0; margin-top: 3px;\">LOVE UNFOLDED • HANDMADE BLOOMS</div>\n        <div style=\"margin-top: 16px; font-size: 16px; font-weight: 700;\">🌸 Order Confirmed! Thank You, Aarohi Sen!</div>\n      </div>\n\n      <div style=\"padding: 24px;\">\n        <p style=\"font-size: 14px; color: #3d1822; line-height: 1.6; margin-top: 0;\">\n          We are delighted to confirm that your Flora7 order <strong>ORD-TEST-DELIV-99</strong> has been received! Shwetha is already preparing your everlasting satin ribbon flowers with utmost love, patience, and meticulous craftsmanship.\n        </p>\n\n        <!-- Order & Fulfillment Box -->\n        <div style=\"background: #fff9fa; border: 1px solid #fce7f0; border-radius: 14px; padding: 16px; margin: 20px 0; font-size: 13px;\">\n          <table style=\"width: 100%; border-collapse: collapse; font-size: 13px;\">\n            <tr>\n              <td style=\"padding: 5px 0; color: #8c5263; width: 40%;\">Order Number:</td>\n              <td style=\"padding: 5px 0; font-weight: 800; color: #5c2533; text-align: right;\">ORD-TEST-DELIV-99</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 5px 0; color: #8c5263;\">Delivery / Pickup Date:</td>\n              <td style=\"padding: 5px 0; font-weight: 700; color: #3d1822; text-align: right;\">2026-09-25 (Evening (5:00 PM - 8:00 PM))</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 5px 0; color: #8c5263; vertical-align: top;\">Fulfillment Details:</td>\n              <td style=\"padding: 5px 0; font-weight: 600; color: #3d1822; text-align: right;\">\n                🚚 Home Delivery: 42, 100ft Road, Indiranagar (Landmark: Near Metro Pillar 84) (560038)\n              </td>\n            </tr>\n            <tr>\n              <td style=\"padding: 5px 0; color: #8c5263;\">Payment:</td>\n              <td style=\"padding: 5px 0; font-weight: 700; color: #166534; text-align: right;\">UPI_QR • PAID</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 5px 0; color: #8c5263;\">Order Status:</td>\n              <td style=\"padding: 5px 0; font-weight: 800; color: #b76e79; text-align: right;\">Confirmed & Preparing</td>\n            </tr>\n          </table>\n        </div>\n\n        \n\n        <!-- Detailed Product Breakdown -->\n        <div style=\"margin: 24px 0 16px 0;\">\n          <div style=\"font-weight: 800; color: #5c2533; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; border-bottom: 2px solid #fce7f0; padding-bottom: 6px;\">\n            Your Ordered Products & Details (1)\n          </div>\n          \n    <div style=\"background: #ffffff; border: 1.5px solid #fce7f0; border-radius: 14px; padding: 16px; margin-bottom: 16px; box-shadow: 0 2px 8px rgba(183, 110, 121, 0.05);\">\n      <table style=\"width: 100%; border-collapse: collapse;\">\n        <tr>\n          \n          <td style=\"width: 80px; vertical-align: top; padding-right: 14px;\">\n            <img src=\"https://images.unsplash.com/photo-1563241527-3004b7be0ffd\" alt=\"Forever Red Velvet Rose Bouquet\" style=\"width: 80px; height: 80px; object-fit: cover; border-radius: 10px; border: 1px solid #f4b8c7;\" />\n          </td>\n          <td style=\"vertical-align: top;\">\n            <div style=\"font-weight: 800; color: #5c2533; font-size: 15px; font-family: Georgia, serif;\">Forever Red Velvet Rose Bouquet</div>\n            <div style=\"font-size: 12px; color: #b76e79; font-weight: 700; margin-top: 2px;\">\n              Quantity: 1 × ₹1899 &nbsp;•&nbsp; <span style=\"color: #5c2533;\">Total: ₹1899</span>\n            </div>\n            \n            <!-- Detailed Description of the Product -->\n            <div style=\"font-size: 12px; color: #5e5254; line-height: 1.5; margin-top: 8px; background: #fff9fa; padding: 8px 12px; border-radius: 8px; border-left: 3px solid #b76e79;\">\n              <strong style=\"color: #5c2533;\">Product Overview:</strong> Everlasting handcrafted satin ribbon flower arrangement. Each petal is individually cut, shaped, and flame-sealed by hand for an exquisite, lifelong romantic keepsake.\n            </div>\n          </td>\n        </tr>\n      </table>\n\n      <!-- Product & Craftsmanship Specifications -->\n      <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed #fce7f0;\">\n        <div style=\"font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px; color: #8c5263; margin-bottom: 8px;\">\n          🌸 Detailed Product Specifications & Customizations:\n        </div>\n        <table style=\"width: 100%; font-size: 12px; border-collapse: collapse;\">\n          <tr>\n            <td style=\"padding: 3px 0; color: #7a4654; width: 45%;\"><strong>Flower Composition:</strong></td>\n            <td style=\"padding: 3px 0; color: #3d1822; text-align: right;\">1 × Handmade Satin Ribbon Rose</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 3px 0; color: #7a4654;\"><strong>Selected Colors:</strong></td>\n            <td style=\"padding: 3px 0; color: #3d1822; text-align: right; font-weight: 600;\">Signature Rose Hue</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 3px 0; color: #7a4654;\"><strong>Floral Wrapping:</strong></td>\n            <td style=\"padding: 3px 0; color: #3d1822; text-align: right;\">Premium Waterproof Korean Matte Floral Paper</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 3px 0; color: #7a4654;\"><strong>Satin Ribbon Bow:</strong></td>\n            <td style=\"padding: 3px 0; color: #3d1822; text-align: right;\">Lustrous Satin Ribbon Bow</td>\n          </tr>\n          \n          \n          \n          \n        </table>\n      </div>\n    </div>\n    \n        </div>\n\n        <!-- Price Summary -->\n        <div style=\"background: #faf5f6; border-radius: 14px; padding: 16px; margin-bottom: 24px;\">\n          <table style=\"width: 100%; border-collapse: collapse; font-size: 13px;\">\n            <tr>\n              <td style=\"padding: 4px 0; color: #7a4654;\">Subtotal:</td>\n              <td style=\"padding: 4px 0; font-weight: 600; text-align: right; color: #3d1822;\">₹1899</td>\n            </tr>\n            \n            <tr>\n              <td style=\"padding: 4px 0; color: #166534;\">Coupon Discount (WELCOME100):</td>\n              <td style=\"padding: 4px 0; font-weight: 600; text-align: right; color: #166534;\">-₹100</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 4px 0; color: #7a4654;\">Delivery:</td>\n              <td style=\"padding: 4px 0; font-weight: 600; text-align: right; color: #3d1822;\">FREE</td>\n            </tr>\n            <tr style=\"border-top: 1.5px solid #f4b8c7;\">\n              <td style=\"padding: 8px 0 2px 0; font-weight: 800; font-size: 15px; color: #5c2533;\">Total Paid:</td>\n              <td style=\"padding: 8px 0 2px 0; font-weight: 800; font-size: 17px; text-align: right; color: #b76e79;\">₹1799</td>\n            </tr>\n          </table>\n        </div>\n\n        <!-- Care Guide -->\n        <div style=\"background: #fff9fa; border-left: 3px solid #b76e79; border-radius: 8px; padding: 12px 14px; margin-bottom: 24px; font-size: 12px; color: #5e5254; line-height: 1.5;\">\n          <strong style=\"color: #5c2533;\">🌸 Keepsake Flower Care:</strong> Unlike fresh flowers, your Flora7 handmade satin blooms will never wilt, fade, or dry! Keep them away from open flames and extreme dampness. If dust settles over time, lightly blow with a hairdryer on the cool setting.\n        </div>\n\n        <!-- Action Button -->\n        <div style=\"text-align: center; margin: 24px 0;\">\n          <a href=\"https://flora7.com/my-orders\" style=\"display: inline-block; background: #b76e79; color: #ffffff; font-weight: 700; font-size: 13px; text-decoration: none; padding: 12px 28px; border-radius: 30px; box-shadow: 0 4px 12px rgba(183, 110, 121, 0.25);\">\n            Track Your Order Live →\n          </a>\n        </div>\n\n        <!-- Contact Support -->\n        <div style=\"font-size: 12px; color: #8c5263; line-height: 1.6; text-align: center; border-top: 1px solid #fce7f0; padding-top: 18px;\">\n          Have questions or want to customize your card message? You can reply directly to this email at <a href=\"mailto:flora7loveunfolded@gmail.com\" style=\"color: #b76e79; font-weight: 700; text-decoration: none;\">flora7loveunfolded@gmail.com</a> or message Shwetha on WhatsApp: <strong>+91 98450 12345</strong>.<br />\n          Follow our creations on Instagram: <a href=\"https://instagram.com/flora7loveunfolded\" style=\"color: #b76e79; font-weight: 700; text-decoration: none;\">@flora7loveunfolded</a>.\n        </div>\n      </div>\n\n      <!-- Footer -->\n      <div style=\"background: #fff9fa; border-top: 1px solid #fce7f0; padding: 14px; text-align: center; font-size: 11px; color: #8c5263;\">\n        Flora7 • Forever Satin Blooms Crafted by Shwetha • Sent through flora7loveunfolded@gmail.com\n      </div>\n    </div>\n  </body>\n  </html>\n  ",
+      "textBody": "Your Flora7 order ORD-TEST-DELIV-99 status has been updated to: DELIVERED.",
+      "status": "LOGGED",
+      "id": "elog-1790059277849-ohd8",
+      "timestamp": "2026-09-22T06:41:17.849Z"
+    },
+    {
+      "orderId": "test-delivered-1",
+      "orderNumber": "ORD-TEST-DELIV-99",
+      "recipient": "flora7loveunfolded@gmail.com",
+      "recipientType": "OWNER",
+      "subject": "🌸 [Delivered & Completed] Order ORD-TEST-DELIV-99 - Aarohi Sen (₹1799)",
+      "htmlBody": "\n  <!DOCTYPE html>\n  <html>\n  <head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>Order Details - ORD-TEST-DELIV-99</title>\n  </head>\n  <body style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; background-color: #fdf6f7; margin: 0; padding: 24px 12px;\">\n    <div style=\"max-width: 620px; margin: 0 auto; background: #ffffff; border-radius: 20px; overflow: hidden; box-shadow: 0 4px 20px rgba(183, 110, 121, 0.12); border: 1px solid #fce7f0;\">\n      \n      <!-- Header Banner -->\n      <div style=\"background: linear-gradient(135deg, #5c2533 0%, #8c3b52 100%); padding: 28px 24px; text-align: center; color: #ffffff;\">\n        <div style=\"font-size: 24px; font-weight: 800; letter-spacing: 2px;\">FLORA7</div>\n        <div style=\"font-size: 12px; letter-spacing: 3px; color: #f4b8c7; margin-top: 4px; text-transform: uppercase;\">Handmade Satin Ribbon Flowers</div>\n        <div style=\"margin-top: 14px; display: inline-block; background: #ffffff; color: #5c2533; font-size: 13px; font-weight: 800; padding: 6px 16px; border-radius: 30px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);\">\n          ✅ ORDER DELIVERED & COMPLETED: ORD-TEST-DELIV-99\n        </div>\n        <div style=\"margin-top: 8px; font-size: 11.5px; color: #ffd6e0; letter-spacing: 0.5px;\">\n          📬 Owner Notification sent to: <strong>flora7loveunfolded@gmail.com</strong>\n        </div>\n      </div>\n\n      <!-- Main Body -->\n      <div style=\"padding: 24px;\">\n        <div style=\"font-size: 16px; color: #3d1822; line-height: 1.5; margin-bottom: 20px;\">\n          Hello <strong>Shwetha</strong>, here are the complete order specifications and fulfillment records for <strong>Delivered Order ORD-TEST-DELIV-99</strong>:\n        </div>\n\n        \n        <!-- Delivered Confirmation Card -->\n        <div style=\"background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 12px; padding: 14px 16px; margin-bottom: 20px; font-size: 13px; color: #166534; line-height: 1.5;\">\n          <strong style=\"font-size: 14px;\">✅ Product Delivery Confirmed:</strong><br />\n          This order has been fulfilled and delivered to customer <strong>Aarohi Sen</strong>. All customer contacts, bouquet craft specifications, address details, and financial records remain permanently recorded for your studio records.\n        </div>\n        \n\n        <!-- Order Summary Card -->\n        <div style=\"background: #fff9fa; border: 1px solid #fce7f0; border-radius: 14px; padding: 18px; margin-bottom: 24px;\">\n          <table style=\"width: 100%; border-collapse: collapse; font-size: 13px;\">\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263; width: 42%;\">Order Number:</td>\n              <td style=\"padding: 6px 0; font-weight: 800; color: #5c2533; text-align: right;\">ORD-TEST-DELIV-99</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Order Placed:</td>\n              <td style=\"padding: 6px 0; font-weight: 600; color: #3d1822; text-align: right;\">Tuesday, 22 September 2026 at 12:11 pm IST</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Current Status:</td>\n              <td style=\"padding: 6px 0; font-weight: 800; color: #b76e79; text-align: right;\">\n                <span style=\"background: #fdf2f4; border: 1px solid #f4b8c7; color: #5c2533; padding: 2px 10px; border-radius: 12px; font-size: 11px; text-transform: uppercase;\">\n                  DELIVERED\n                </span>\n              </td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Customer Name:</td>\n              <td style=\"padding: 6px 0; font-weight: 700; color: #3d1822; text-align: right;\">Aarohi Sen</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Customer Phone:</td>\n              <td style=\"padding: 6px 0; font-weight: 700; color: #3d1822; text-align: right;\">\n                <a href=\"tel:9876543210\" style=\"color: #b76e79; text-decoration: none;\">9876543210</a>\n              </td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Customer Email:</td>\n              <td style=\"padding: 6px 0; font-weight: 600; color: #3d1822; text-align: right;\">\n                <a href=\"mailto:aarohi.sen@example.com\" style=\"color: #b76e79; text-decoration: none;\">aarohi.sen@example.com</a>\n              </td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Fulfillment Type:</td>\n              <td style=\"padding: 6px 0; font-weight: 700; color: #5c2533; text-align: right;\">🚚 Home Delivery</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Target Date & Slot:</td>\n              <td style=\"padding: 6px 0; font-weight: 700; color: #3d1822; text-align: right;\">2026-09-25 (Evening (5:00 PM - 8:00 PM))</td>\n            </tr>\n            \n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263; vertical-align: top;\">Delivery Address:</td>\n              <td style=\"padding: 6px 0; font-weight: 600; color: #3d1822; text-align: right;\">\n                42, 100ft Road, Indiranagar\n                <br /><span style=\"font-size: 11px; color: #7a4654;\">Landmark: Near Metro Pillar 84</span>\n                 (560038)\n              </td>\n            </tr>\n            \n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Payment:</td>\n              <td style=\"padding: 6px 0; text-align: right;\">\n                <span style=\"display: inline-block; background: #f0fdf4; border: 1px solid #bbf7d0; color: #15803d; padding: 3px 10px; border-radius: 12px; font-weight: 800; font-size: 12px;\">\n                  UPI_QR • PAID\n                </span>\n              </td>\n            </tr>\n          </table>\n        </div>\n\n        <!-- Special Notes / Gift Message -->\n        \n\n        <!-- Items with Detailed Product Descriptions -->\n        <div style=\"margin-bottom: 24px;\">\n          <div style=\"font-weight: 800; color: #5c2533; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; border-bottom: 2px solid #fce7f0; padding-bottom: 6px;\">\n            Ordered Items & Detailed Descriptions (1)\n          </div>\n          \n    <div style=\"background: #ffffff; border: 1.5px solid #fce7f0; border-radius: 14px; padding: 16px; margin-bottom: 16px;\">\n      <table style=\"width: 100%; border-collapse: collapse;\">\n        <tr>\n          \n          <td style=\"width: 70px; vertical-align: top; padding-right: 14px;\">\n            <img src=\"https://images.unsplash.com/photo-1563241527-3004b7be0ffd\" alt=\"Forever Red Velvet Rose Bouquet\" style=\"width: 70px; height: 70px; object-fit: cover; border-radius: 10px; border: 1px solid #f4b8c7;\" />\n          </td>\n          <td style=\"vertical-align: top;\">\n            <div style=\"font-weight: 800; color: #5c2533; font-size: 15px; font-family: Georgia, serif;\">Forever Red Velvet Rose Bouquet</div>\n            <div style=\"font-size: 12px; color: #8c5263; margin-top: 3px; font-weight: 600;\">\n              Quantity: <strong>1</strong> × ₹1899 &nbsp;•&nbsp; <span style=\"color: #b76e79;\">Item Total: ₹1899</span>\n            </div>\n            <div style=\"background: #fff9fa; padding: 8px 12px; border-radius: 8px; margin-top: 8px; font-size: 11.5px; color: #5e5254; border-left: 3px solid #b76e79; line-height: 1.5;\">\n              <strong>Product Description:</strong> Everlasting handcrafted satin ribbon flower arrangement. Each petal is individually cut, shaped, and flame-sealed by hand for an exquisite, lifelong romantic keepsake.\n            </div>\n          </td>\n        </tr>\n      </table>\n\n      <!-- Specifications for Owner Assembly -->\n      <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed #fce7f0; font-size: 12px; color: #3d1822;\">\n        <div style=\"font-size: 11px; font-weight: 800; color: #b76e79; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px;\">\n          ✂️ Assembly & Crafting Specifications:\n        </div>\n        <table style=\"width: 100%; border-collapse: collapse; font-size: 12px;\">\n          <tr>\n            <td style=\"padding: 2px 0; color: #7a4654; width: 40%;\"><strong>Flowers:</strong></td>\n            <td style=\"padding: 2px 0; color: #3d1822;\">1 × Handmade Satin Ribbon Rose</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 2px 0; color: #7a4654;\"><strong>Color(s):</strong></td>\n            <td style=\"padding: 2px 0; color: #3d1822; font-weight: 600;\">Signature Rose Hue</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 2px 0; color: #7a4654;\"><strong>Wrapping Paper:</strong></td>\n            <td style=\"padding: 2px 0; color: #3d1822;\">Premium Waterproof Korean Matte Floral Paper</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 2px 0; color: #7a4654;\"><strong>Ribbon Bow:</strong></td>\n            <td style=\"padding: 2px 0; color: #3d1822;\">Lustrous Satin Ribbon Bow</td>\n          </tr>\n          \n          \n          \n          \n        </table>\n      </div>\n    </div>\n    \n        </div>\n\n        <!-- Financial Totals -->\n        <div style=\"background: #faf5f6; border-radius: 12px; padding: 16px; margin-bottom: 28px;\">\n          <table style=\"width: 100%; border-collapse: collapse; font-size: 13px;\">\n            <tr>\n              <td style=\"padding: 4px 0; color: #7a4654;\">Subtotal:</td>\n              <td style=\"padding: 4px 0; font-weight: 600; text-align: right; color: #3d1822;\">₹1899</td>\n            </tr>\n            \n            <tr>\n              <td style=\"padding: 4px 0; color: #166534;\">Coupon Discount (WELCOME100):</td>\n              <td style=\"padding: 4px 0; font-weight: 600; text-align: right; color: #166534;\">-₹100</td>\n            </tr>\n            \n            <tr>\n              <td style=\"padding: 4px 0; color: #7a4654;\">Delivery Fee:</td>\n              <td style=\"padding: 4px 0; font-weight: 600; text-align: right; color: #3d1822;\">FREE</td>\n            </tr>\n            <tr style=\"border-top: 1.5px solid #f4b8c7;\">\n              <td style=\"padding: 10px 0 4px 0; font-weight: 800; font-size: 16px; color: #5c2533;\">Total Order Amount:</td>\n              <td style=\"padding: 10px 0 4px 0; font-weight: 800; font-size: 18px; text-align: right; color: #b76e79;\">₹1799</td>\n            </tr>\n          </table>\n        </div>\n\n        <!-- Quick Action Buttons for Owner -->\n        <div style=\"text-align: center; margin-bottom: 16px;\">\n          <a href=\"https://flora7.com/admin/dashboard\" style=\"display: inline-block; background: #5c2533; color: #ffffff; font-weight: 800; font-size: 14px; text-decoration: none; padding: 14px 28px; border-radius: 30px; letter-spacing: 0.5px; box-shadow: 0 4px 12px rgba(92, 37, 51, 0.25);\">\n            Open Owner Portal to Manage Order →\n          </a>\n        </div>\n        <div style=\"text-align: center; display: flex; justify-content: center; gap: 16px; margin-top: 10px;\">\n          <a href=\"https://wa.me/9876543210?text=Hi%20Aarohi%20Sen,%20thank%20you%20for%20your%20order%20ORD-TEST-DELIV-99%20at%20Flora7!%20Shwetha%20here%20from%20Flora7.\" style=\"font-size: 13px; color: #16a34a; font-weight: 700; text-decoration: none; padding: 6px 12px; background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 20px; display: inline-block;\">\n            💬 WhatsApp Customer Directly\n          </a>\n          <a href=\"tel:9876543210\" style=\"font-size: 13px; color: #5c2533; font-weight: 700; text-decoration: none; padding: 6px 12px; background: #fdf2f4; border: 1px solid #f4b8c7; border-radius: 20px; display: inline-block;\">\n            📞 Call Customer\n          </a>\n        </div>\n\n      </div>\n\n      <!-- Footer -->\n      <div style=\"background: #fff9fa; border-top: 1px solid #fce7f0; padding: 16px; text-align: center; font-size: 11px; color: #8c5263;\">\n        Flora7 Handmade Studio • Bangalore, India • Crafted with Love by Shwetha<br />\n        This is an automated notification from your Flora7 online store sent to <strong>flora7loveunfolded@gmail.com</strong>.\n      </div>\n    </div>\n  </body>\n  </html>\n  ",
+      "textBody": "===============================================================\n🌸 FLORA7 HANDMADE FLOWER STUDIO - ORDER DELIVERED & COMPLETED SUMMARY\n===============================================================\n\nNotification sent to: flora7loveunfolded@gmail.com\nOrder ID: ORD-TEST-DELIV-99\nPlaced On: Tuesday, 22 September 2026 at 12:11 pm IST\nOrder Status: DELIVERED (PRODUCT DELIVERED TO CUSTOMER)\n\n1. CUSTOMER INFORMATION\n---------------------------------------------------------------\nName: Aarohi Sen\nPhone: 9876543210\nEmail: aarohi.sen@example.com\nWhatsApp: https://wa.me/9876543210?text=Hi%20Aarohi%20Sen,%20thank%20you%20for%20your%20order%20ORD-TEST-DELIV-99%20at%20Flora7!\n\n2. DELIVERY / FULFILLMENT SPECIFICATIONS\n---------------------------------------------------------------\nFulfillment Type: 🚚 Home Delivery\nTarget Date: 2026-09-25\nPreferred Time Slot: Evening (5:00 PM - 8:00 PM)\nDelivery Address: 42, 100ft Road, Indiranagar\nLandmark: Near Metro Pillar 84\nPincode: 560038\nDelivery Status: ✅ Product successfully delivered to customer\n\n\n3. PAYMENT & FINANCIAL STATUS\n---------------------------------------------------------------\nPayment Method: UPI_QR\nPayment Status: PAID\nItems Subtotal: ₹1899\nCoupon Discount (WELCOME100): -₹100\nDelivery Charge: FREE\n---------------------------------------------------------------\nTOTAL ORDER AMOUNT: ₹1799\n---------------------------------------------------------------\n\n4. GIFT CARD MESSAGE & CUSTOMER INSTRUCTIONS\n---------------------------------------------------------------\nGift Message: None specified\nSpecial Delivery Instructions: None\n\n5. ITEM & HANDCRAFT SPECIFICATIONS (1 Item)\n---------------------------------------------------------------\n1. Forever Red Velvet Rose Bouquet (Qty: 1 × ₹1899 = ₹1899)\n   Description: Everlasting handcrafted satin ribbon flower arrangement. Each petal is individually cut, shaped, and flame-sealed by hand for an exquisite, lifelong romantic keepsake.\n   • Flower Specs: 1x Handmade Satin Ribbon Rose\n   • Flower Color(s): Signature Rose Hue\n   • Wrapping Paper: Premium Waterproof Korean Matte Floral Paper\n   • Ribbon Bow: Lustrous Satin Ribbon Bow\n\n===============================================================\nMANAGE ORDER IN OWNER PORTAL:\nhttps://flora7.com/admin/dashboard\n\nFlora7 Handmade Studio • Bangalore, India\nCrafted with love by Shwetha\n===============================================================",
+      "status": "LOGGED",
+      "id": "elog-1790059277847-hxqh",
+      "timestamp": "2026-09-22T06:41:17.847Z"
+    },
+    {
+      "orderId": "test-order-999",
+      "orderNumber": "FLORA7-09999",
+      "recipient": "priya.sharma@example.com",
+      "recipientType": "CUSTOMER",
+      "subject": "🌸 Order Confirmed: FLORA7-09999 - Your Flora7 Handmade Bouquet is in the Works!",
+      "htmlBody": "\n  <!DOCTYPE html>\n  <html>\n  <head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>Your Flora7 Order Confirmation - FLORA7-09999</title>\n  </head>\n  <body style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background-color: #fdf6f7; margin: 0; padding: 24px 12px;\">\n    <div style=\"max-width: 600px; margin: 0 auto; background: #ffffff; border-radius: 20px; overflow: hidden; border: 1px solid #fce7f0; box-shadow: 0 4px 20px rgba(183, 110, 121, 0.1);\">\n      \n      <!-- Top Banner -->\n      <div style=\"background: linear-gradient(135deg, #5c2533 0%, #b76e79 100%); padding: 30px 20px; text-align: center; color: #ffffff;\">\n        <div style=\"font-size: 24px; font-weight: 800; letter-spacing: 2px;\">FLORA7</div>\n        <div style=\"font-size: 11px; letter-spacing: 3px; color: #fce7f0; margin-top: 3px;\">LOVE UNFOLDED • HANDMADE BLOOMS</div>\n        <div style=\"margin-top: 16px; font-size: 16px; font-weight: 700;\">🌸 Order Confirmed! Thank You, Priya Sharma!</div>\n      </div>\n\n      <div style=\"padding: 24px;\">\n        <p style=\"font-size: 14px; color: #3d1822; line-height: 1.6; margin-top: 0;\">\n          We are delighted to confirm that your Flora7 order <strong>FLORA7-09999</strong> has been received! Shwetha is already preparing your everlasting satin ribbon flowers with utmost love, patience, and meticulous craftsmanship.\n        </p>\n\n        <!-- Order & Fulfillment Box -->\n        <div style=\"background: #fff9fa; border: 1px solid #fce7f0; border-radius: 14px; padding: 16px; margin: 20px 0; font-size: 13px;\">\n          <table style=\"width: 100%; border-collapse: collapse; font-size: 13px;\">\n            <tr>\n              <td style=\"padding: 5px 0; color: #8c5263; width: 40%;\">Order Number:</td>\n              <td style=\"padding: 5px 0; font-weight: 800; color: #5c2533; text-align: right;\">FLORA7-09999</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 5px 0; color: #8c5263;\">Delivery / Pickup Date:</td>\n              <td style=\"padding: 5px 0; font-weight: 700; color: #3d1822; text-align: right;\">2026-09-25 (Morning (9 AM - 12 PM))</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 5px 0; color: #8c5263; vertical-align: top;\">Fulfillment Details:</td>\n              <td style=\"padding: 5px 0; font-weight: 600; color: #3d1822; text-align: right;\">\n                🚚 Home Delivery: 42, 5th Main, 7th Cross, Indiranagar (Landmark: Near Metro Station) (560038)\n              </td>\n            </tr>\n            <tr>\n              <td style=\"padding: 5px 0; color: #8c5263;\">Payment:</td>\n              <td style=\"padding: 5px 0; font-weight: 700; color: #166534; text-align: right;\">UPI • PAID</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 5px 0; color: #8c5263;\">Order Status:</td>\n              <td style=\"padding: 5px 0; font-weight: 800; color: #b76e79; text-align: right;\">Confirmed & Preparing</td>\n            </tr>\n          </table>\n        </div>\n\n        \n        <div style=\"background: #fdf2f4; border: 1px dashed #b76e79; border-radius: 12px; padding: 12px 16px; margin-bottom: 20px; font-size: 13px;\">\n          <strong style=\"color: #5c2533;\">💌 Keepsake Card Message:</strong> <em>\"Happy Anniversary to my dearest love!\"</em>\n        </div>\n\n        <!-- Detailed Product Breakdown -->\n        <div style=\"margin: 24px 0 16px 0;\">\n          <div style=\"font-weight: 800; color: #5c2533; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; border-bottom: 2px solid #fce7f0; padding-bottom: 6px;\">\n            Your Ordered Products & Details (1)\n          </div>\n          \n    <div style=\"background: #ffffff; border: 1.5px solid #fce7f0; border-radius: 14px; padding: 16px; margin-bottom: 16px; box-shadow: 0 2px 8px rgba(183, 110, 121, 0.05);\">\n      <table style=\"width: 100%; border-collapse: collapse;\">\n        <tr>\n          \n          <td style=\"width: 80px; vertical-align: top; padding-right: 14px;\">\n            <img src=\"https://images.unsplash.com/photo-1563241527-3004b7be0ffd\" alt=\"7 Classic Blue Rose Bouquet\" style=\"width: 80px; height: 80px; object-fit: cover; border-radius: 10px; border: 1px solid #f4b8c7;\" />\n          </td>\n          <td style=\"vertical-align: top;\">\n            <div style=\"font-weight: 800; color: #5c2533; font-size: 15px; font-family: Georgia, serif;\">7 Classic Blue Rose Bouquet</div>\n            <div style=\"font-size: 12px; color: #b76e79; font-weight: 700; margin-top: 2px;\">\n              Quantity: 1 × ₹1049 &nbsp;•&nbsp; <span style=\"color: #5c2533;\">Total: ₹1049</span>\n            </div>\n            \n            <!-- Detailed Description of the Product -->\n            <div style=\"font-size: 12px; color: #5e5254; line-height: 1.5; margin-top: 8px; background: #fff9fa; padding: 8px 12px; border-radius: 8px; border-left: 3px solid #b76e79;\">\n              <strong style=\"color: #5c2533;\">Product Overview:</strong> The signature Flora7 7-Rose Bouquet representing eternal love. Handcrafted by Shwetha with sky blue & cream ivory satin ribbon roses, gleaming faux pearl centers in every bloom, frosted Korean white paper with gold borders, and a deluxe gold satin ribbon bow with a pearl pin.\n            </div>\n          </td>\n        </tr>\n      </table>\n\n      <!-- Product & Craftsmanship Specifications -->\n      <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed #fce7f0;\">\n        <div style=\"font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px; color: #8c5263; margin-bottom: 8px;\">\n          🌸 Detailed Product Specifications & Customizations:\n        </div>\n        <table style=\"width: 100%; font-size: 12px; border-collapse: collapse;\">\n          <tr>\n            <td style=\"padding: 3px 0; color: #7a4654; width: 45%;\"><strong>Flower Composition:</strong></td>\n            <td style=\"padding: 3px 0; color: #3d1822; text-align: right;\">7 × Handmade Satin Ribbon Rose</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 3px 0; color: #7a4654;\"><strong>Selected Colors:</strong></td>\n            <td style=\"padding: 3px 0; color: #3d1822; text-align: right; font-weight: 600;\">Royal Midnight Blue</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 3px 0; color: #7a4654;\"><strong>Floral Wrapping:</strong></td>\n            <td style=\"padding: 3px 0; color: #3d1822; text-align: right;\">Dual-tone Korean Matte Paper</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 3px 0; color: #7a4654;\"><strong>Satin Ribbon Bow:</strong></td>\n            <td style=\"padding: 3px 0; color: #3d1822; text-align: right;\">Lustrous Satin Ribbon Bow</td>\n          </tr>\n          \n          <tr>\n            <td style=\"padding: 3px 0; color: #7a4654;\"><strong>Center Pearls:</strong></td>\n            <td style=\"padding: 3px 0; color: #3d1822; text-align: right;\">✨ Embedded luminous pearl at flower centers</td>\n          </tr>\n          \n          <tr>\n            <td style=\"padding: 3px 0; color: #7a4654;\"><strong>Warm Fairy Lights:</strong></td>\n            <td style=\"padding: 3px 0; color: #16a34a; text-align: right; font-weight: bold;\">💡 Micro-LED lights included</td>\n          </tr>\n          \n          <tr>\n            <td style=\"padding: 3px 0; color: #7a4654; vertical-align: top;\"><strong>Printed Keepsake Card:</strong></td>\n            <td style=\"padding: 3px 0; color: #5c2533; text-align: right; font-style: italic; font-weight: 600;\">\"Happy Anniversary to my dearest love!\"</td>\n          </tr>\n          \n          <tr>\n            <td style=\"padding: 3px 0; color: #7a4654;\"><strong>Gift Tag:</strong></td>\n            <td style=\"padding: 3px 0; color: #3d1822; text-align: right;\">For Priya</td>\n          </tr>\n        </table>\n      </div>\n    </div>\n    \n        </div>\n\n        <!-- Price Summary -->\n        <div style=\"background: #faf5f6; border-radius: 14px; padding: 16px; margin-bottom: 24px;\">\n          <table style=\"width: 100%; border-collapse: collapse; font-size: 13px;\">\n            <tr>\n              <td style=\"padding: 4px 0; color: #7a4654;\">Subtotal:</td>\n              <td style=\"padding: 4px 0; font-weight: 600; text-align: right; color: #3d1822;\">₹1049</td>\n            </tr>\n            \n            <tr>\n              <td style=\"padding: 4px 0; color: #166534;\">Coupon Discount (WELCOME100):</td>\n              <td style=\"padding: 4px 0; font-weight: 600; text-align: right; color: #166534;\">-₹100</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 4px 0; color: #7a4654;\">Delivery:</td>\n              <td style=\"padding: 4px 0; font-weight: 600; text-align: right; color: #3d1822;\">FREE</td>\n            </tr>\n            <tr style=\"border-top: 1.5px solid #f4b8c7;\">\n              <td style=\"padding: 8px 0 2px 0; font-weight: 800; font-size: 15px; color: #5c2533;\">Total Paid:</td>\n              <td style=\"padding: 8px 0 2px 0; font-weight: 800; font-size: 17px; text-align: right; color: #b76e79;\">₹949</td>\n            </tr>\n          </table>\n        </div>\n\n        <!-- Care Guide -->\n        <div style=\"background: #fff9fa; border-left: 3px solid #b76e79; border-radius: 8px; padding: 12px 14px; margin-bottom: 24px; font-size: 12px; color: #5e5254; line-height: 1.5;\">\n          <strong style=\"color: #5c2533;\">🌸 Keepsake Flower Care:</strong> Unlike fresh flowers, your Flora7 handmade satin blooms will never wilt, fade, or dry! Keep them away from open flames and extreme dampness. If dust settles over time, lightly blow with a hairdryer on the cool setting.\n        </div>\n\n        <!-- Action Button -->\n        <div style=\"text-align: center; margin: 24px 0;\">\n          <a href=\"https://flora7.com/my-orders\" style=\"display: inline-block; background: #b76e79; color: #ffffff; font-weight: 700; font-size: 13px; text-decoration: none; padding: 12px 28px; border-radius: 30px; box-shadow: 0 4px 12px rgba(183, 110, 121, 0.25);\">\n            Track Your Order Live →\n          </a>\n        </div>\n\n        <!-- Contact Support -->\n        <div style=\"font-size: 12px; color: #8c5263; line-height: 1.6; text-align: center; border-top: 1px solid #fce7f0; padding-top: 18px;\">\n          Have questions or want to customize your card message? You can reply directly to this email at <a href=\"mailto:flora7loveunfolded@gmail.com\" style=\"color: #b76e79; font-weight: 700; text-decoration: none;\">flora7loveunfolded@gmail.com</a> or message Shwetha on WhatsApp: <strong>+91 98450 12345</strong>.<br />\n          Follow our creations on Instagram: <a href=\"https://instagram.com/flora7loveunfolded\" style=\"color: #b76e79; font-weight: 700; text-decoration: none;\">@flora7loveunfolded</a>.\n        </div>\n      </div>\n\n      <!-- Footer -->\n      <div style=\"background: #fff9fa; border-top: 1px solid #fce7f0; padding: 14px; text-align: center; font-size: 11px; color: #8c5263;\">\n        Flora7 • Forever Satin Blooms Crafted by Shwetha • Sent through flora7loveunfolded@gmail.com\n      </div>\n    </div>\n  </body>\n  </html>\n  ",
+      "textBody": "Hi Priya Sharma,\nThank you for ordering at Flora7! Your order FLORA7-09999 for ₹949 has been confirmed.\n\nItems: 1x 7 Classic Blue Rose Bouquet\n\nTrack your order at: https://flora7.com/my-orders",
+      "status": "LOGGED",
+      "id": "elog-1790058581657-m7vh",
+      "timestamp": "2026-09-22T06:29:41.657Z"
+    },
+    {
+      "orderId": "test-order-999",
+      "orderNumber": "FLORA7-09999",
+      "recipient": "flora7loveunfolded@gmail.com",
+      "recipientType": "OWNER",
+      "subject": "🌸 New Flora7 Order: FLORA7-09999 from Priya Sharma (₹949)",
+      "htmlBody": "\n  <!DOCTYPE html>\n  <html>\n  <head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>New Order Alert - FLORA7-09999</title>\n  </head>\n  <body style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; background-color: #fdf6f7; margin: 0; padding: 24px 12px;\">\n    <div style=\"max-width: 620px; margin: 0 auto; background: #ffffff; border-radius: 20px; overflow: hidden; box-shadow: 0 4px 20px rgba(183, 110, 121, 0.12); border: 1px solid #fce7f0;\">\n      \n      <!-- Header Banner -->\n      <div style=\"background: linear-gradient(135deg, #5c2533 0%, #8c3b52 100%); padding: 28px 24px; text-align: center; color: #ffffff;\">\n        <div style=\"font-size: 24px; font-weight: 800; letter-spacing: 2px;\">FLORA7</div>\n        <div style=\"font-size: 12px; letter-spacing: 3px; color: #f4b8c7; margin-top: 4px; text-transform: uppercase;\">Handmade Satin Ribbon Flowers</div>\n        <div style=\"margin-top: 14px; display: inline-block; background: #ffffff; color: #5c2533; font-size: 13px; font-weight: 800; padding: 6px 16px; border-radius: 30px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);\">\n          🚨 NEW ORDER RECEIVED: FLORA7-09999\n        </div>\n        <div style=\"margin-top: 8px; font-size: 11.5px; color: #ffd6e0; letter-spacing: 0.5px;\">\n          📬 Owner Notification sent to: <strong>flora7loveunfolded@gmail.com</strong>\n        </div>\n      </div>\n\n      <!-- Main Body -->\n      <div style=\"padding: 24px;\">\n        <div style=\"font-size: 16px; color: #3d1822; line-height: 1.5; margin-bottom: 20px;\">\n          Hello <strong>Shwetha</strong>, a new handmade bouquet order has just been placed on your Flora7 storefront!\n        </div>\n\n        <!-- Order Summary Card -->\n        <div style=\"background: #fff9fa; border: 1px solid #fce7f0; border-radius: 14px; padding: 18px; margin-bottom: 24px;\">\n          <table style=\"width: 100%; border-collapse: collapse; font-size: 13px;\">\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263; width: 42%;\">Order Number:</td>\n              <td style=\"padding: 6px 0; font-weight: 800; color: #5c2533; text-align: right;\">FLORA7-09999</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Order Placed:</td>\n              <td style=\"padding: 6px 0; font-weight: 600; color: #3d1822; text-align: right;\">Tuesday, 22 September 2026 at 11:59 am IST</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Current Status:</td>\n              <td style=\"padding: 6px 0; font-weight: 800; color: #b76e79; text-align: right;\">\n                <span style=\"background: #fdf2f4; border: 1px solid #f4b8c7; color: #5c2533; padding: 2px 10px; border-radius: 12px; font-size: 11px; text-transform: uppercase;\">\n                  RECEIVED\n                </span>\n              </td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Customer Name:</td>\n              <td style=\"padding: 6px 0; font-weight: 700; color: #3d1822; text-align: right;\">Priya Sharma</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Customer Phone:</td>\n              <td style=\"padding: 6px 0; font-weight: 700; color: #3d1822; text-align: right;\">\n                <a href=\"tel:+91 98765 43210\" style=\"color: #b76e79; text-decoration: none;\">+91 98765 43210</a>\n              </td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Customer Email:</td>\n              <td style=\"padding: 6px 0; font-weight: 600; color: #3d1822; text-align: right;\">\n                <a href=\"mailto:priya.sharma@example.com\" style=\"color: #b76e79; text-decoration: none;\">priya.sharma@example.com</a>\n              </td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Fulfillment Type:</td>\n              <td style=\"padding: 6px 0; font-weight: 700; color: #5c2533; text-align: right;\">🚚 Home Delivery</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Target Date & Slot:</td>\n              <td style=\"padding: 6px 0; font-weight: 700; color: #3d1822; text-align: right;\">2026-09-25 (Morning (9 AM - 12 PM))</td>\n            </tr>\n            \n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263; vertical-align: top;\">Delivery Address:</td>\n              <td style=\"padding: 6px 0; font-weight: 600; color: #3d1822; text-align: right;\">\n                42, 5th Main, 7th Cross, Indiranagar\n                <br /><span style=\"font-size: 11px; color: #7a4654;\">Landmark: Near Metro Station</span>\n                 (560038)\n              </td>\n            </tr>\n            \n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Payment:</td>\n              <td style=\"padding: 6px 0; text-align: right;\">\n                <span style=\"display: inline-block; background: #f0fdf4; border: 1px solid #bbf7d0; color: #15803d; padding: 3px 10px; border-radius: 12px; font-weight: 800; font-size: 12px;\">\n                  UPI • PAID\n                </span>\n              </td>\n            </tr>\n          </table>\n        </div>\n\n        <!-- Special Notes / Gift Message -->\n        \n        <div style=\"background: #fdf2f4; border: 1px dashed #b76e79; border-radius: 12px; padding: 14px; margin-bottom: 24px; font-size: 13px;\">\n          <div>💌 <strong>Gift Message to Include:</strong> <em>\"Happy Anniversary to my dearest love!\"</em></div>\n          <div style=\"margin-top: 6px;\">📝 <strong>Special Instructions from Customer:</strong> Please ring the doorbell twice</div>\n        </div>\n        \n\n        <!-- Items with Detailed Product Descriptions -->\n        <div style=\"margin-bottom: 24px;\">\n          <div style=\"font-weight: 800; color: #5c2533; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; border-bottom: 2px solid #fce7f0; padding-bottom: 6px;\">\n            Ordered Items & Detailed Descriptions (1)\n          </div>\n          \n    <div style=\"background: #ffffff; border: 1.5px solid #fce7f0; border-radius: 14px; padding: 16px; margin-bottom: 16px;\">\n      <table style=\"width: 100%; border-collapse: collapse;\">\n        <tr>\n          \n          <td style=\"width: 70px; vertical-align: top; padding-right: 14px;\">\n            <img src=\"https://images.unsplash.com/photo-1563241527-3004b7be0ffd\" alt=\"7 Classic Blue Rose Bouquet\" style=\"width: 70px; height: 70px; object-fit: cover; border-radius: 10px; border: 1px solid #f4b8c7;\" />\n          </td>\n          <td style=\"vertical-align: top;\">\n            <div style=\"font-weight: 800; color: #5c2533; font-size: 15px; font-family: Georgia, serif;\">7 Classic Blue Rose Bouquet</div>\n            <div style=\"font-size: 12px; color: #8c5263; margin-top: 3px; font-weight: 600;\">\n              Quantity: <strong>1</strong> × ₹1049 &nbsp;•&nbsp; <span style=\"color: #b76e79;\">Item Total: ₹1049</span>\n            </div>\n            <div style=\"background: #fff9fa; padding: 8px 12px; border-radius: 8px; margin-top: 8px; font-size: 11.5px; color: #5e5254; border-left: 3px solid #b76e79; line-height: 1.5;\">\n              <strong>Product Description:</strong> The signature Flora7 7-Rose Bouquet representing eternal love. Handcrafted by Shwetha with sky blue & cream ivory satin ribbon roses, gleaming faux pearl centers in every bloom, frosted Korean white paper with gold borders, and a deluxe gold satin ribbon bow with a pearl pin.\n            </div>\n          </td>\n        </tr>\n      </table>\n\n      <!-- Specifications for Owner Assembly -->\n      <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed #fce7f0; font-size: 12px; color: #3d1822;\">\n        <div style=\"font-size: 11px; font-weight: 800; color: #b76e79; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px;\">\n          ✂️ Assembly & Crafting Specifications:\n        </div>\n        <table style=\"width: 100%; border-collapse: collapse; font-size: 12px;\">\n          <tr>\n            <td style=\"padding: 2px 0; color: #7a4654; width: 40%;\"><strong>Flowers:</strong></td>\n            <td style=\"padding: 2px 0; color: #3d1822;\">7 × Handmade Satin Ribbon Rose</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 2px 0; color: #7a4654;\"><strong>Color(s):</strong></td>\n            <td style=\"padding: 2px 0; color: #3d1822; font-weight: 600;\">Royal Midnight Blue</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 2px 0; color: #7a4654;\"><strong>Wrapping Paper:</strong></td>\n            <td style=\"padding: 2px 0; color: #3d1822;\">Dual-tone Korean Matte Paper</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 2px 0; color: #7a4654;\"><strong>Ribbon Bow:</strong></td>\n            <td style=\"padding: 2px 0; color: #3d1822;\">Lustrous Satin Ribbon Bow</td>\n          </tr>\n          \n          <tr>\n            <td style=\"padding: 2px 0; color: #7a4654;\"><strong>Center Pearls:</strong></td>\n            <td style=\"padding: 2px 0; color: #b76e79; font-weight: 600;\">✨ Add pearls to bloom centers</td>\n          </tr>\n          \n          <tr>\n            <td style=\"padding: 2px 0; color: #7a4654;\"><strong>Fairy Lights:</strong></td>\n            <td style=\"padding: 2px 0; color: #16a34a; font-weight: 700;\">💡 Include warm LED fairy lights</td>\n          </tr>\n          \n          <tr>\n            <td style=\"padding: 2px 0; color: #7a4654; vertical-align: top;\"><strong>Card Message:</strong></td>\n            <td style=\"padding: 2px 0; color: #5c2533; font-style: italic; font-weight: 600;\">\"Happy Anniversary to my dearest love!\"</td>\n          </tr>\n          \n          <tr>\n            <td style=\"padding: 2px 0; color: #7a4654;\"><strong>Gift Tag:</strong></td>\n            <td style=\"padding: 2px 0; color: #3d1822;\">\"For Priya\"</td>\n          </tr>\n        </table>\n      </div>\n    </div>\n    \n        </div>\n\n        <!-- Financial Totals -->\n        <div style=\"background: #faf5f6; border-radius: 12px; padding: 16px; margin-bottom: 28px;\">\n          <table style=\"width: 100%; border-collapse: collapse; font-size: 13px;\">\n            <tr>\n              <td style=\"padding: 4px 0; color: #7a4654;\">Subtotal:</td>\n              <td style=\"padding: 4px 0; font-weight: 600; text-align: right; color: #3d1822;\">₹1049</td>\n            </tr>\n            \n            <tr>\n              <td style=\"padding: 4px 0; color: #166534;\">Coupon Discount (WELCOME100):</td>\n              <td style=\"padding: 4px 0; font-weight: 600; text-align: right; color: #166534;\">-₹100</td>\n            </tr>\n            \n            <tr>\n              <td style=\"padding: 4px 0; color: #7a4654;\">Delivery Fee:</td>\n              <td style=\"padding: 4px 0; font-weight: 600; text-align: right; color: #3d1822;\">FREE</td>\n            </tr>\n            <tr style=\"border-top: 1.5px solid #f4b8c7;\">\n              <td style=\"padding: 10px 0 4px 0; font-weight: 800; font-size: 16px; color: #5c2533;\">Total Order Amount:</td>\n              <td style=\"padding: 10px 0 4px 0; font-weight: 800; font-size: 18px; text-align: right; color: #b76e79;\">₹949</td>\n            </tr>\n          </table>\n        </div>\n\n        <!-- Quick Action Buttons for Owner -->\n        <div style=\"text-align: center; margin-bottom: 16px;\">\n          <a href=\"https://flora7.com/admin/dashboard\" style=\"display: inline-block; background: #5c2533; color: #ffffff; font-weight: 800; font-size: 14px; text-decoration: none; padding: 14px 28px; border-radius: 30px; letter-spacing: 0.5px; box-shadow: 0 4px 12px rgba(92, 37, 51, 0.25);\">\n            Open Owner Portal to Manage Order →\n          </a>\n        </div>\n        <div style=\"text-align: center; display: flex; justify-content: center; gap: 16px; margin-top: 10px;\">\n          <a href=\"https://wa.me/919876543210?text=Hi%20Priya%20Sharma,%20thank%20you%20for%20your%20order%20FLORA7-09999%20at%20Flora7!%20Shwetha%20here%20from%20Flora7.\" style=\"font-size: 13px; color: #16a34a; font-weight: 700; text-decoration: none; padding: 6px 12px; background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 20px; display: inline-block;\">\n            💬 WhatsApp Customer Directly\n          </a>\n          <a href=\"tel:+91 98765 43210\" style=\"font-size: 13px; color: #5c2533; font-weight: 700; text-decoration: none; padding: 6px 12px; background: #fdf2f4; border: 1px solid #f4b8c7; border-radius: 20px; display: inline-block;\">\n            📞 Call Customer\n          </a>\n        </div>\n\n      </div>\n\n      <!-- Footer -->\n      <div style=\"background: #fff9fa; border-top: 1px solid #fce7f0; padding: 16px; text-align: center; font-size: 11px; color: #8c5263;\">\n        Flora7 Handmade Studio • Bangalore, India • Crafted with Love by Shwetha<br />\n        This is an automated notification from your Flora7 online store sent to <strong>flora7loveunfolded@gmail.com</strong>.\n      </div>\n    </div>\n  </body>\n  </html>\n  ",
+      "textBody": "===============================================================\n🌸 FLORA7 HANDMADE FLOWER STUDIO - NEW CUSTOMER ORDER\n===============================================================\n\nNotification sent to: flora7loveunfolded@gmail.com\nOrder ID: FLORA7-09999\nPlaced On: Tuesday, 22 September 2026 at 11:59 am IST\nOrder Status: RECEIVED\n\n1. CUSTOMER INFORMATION\n---------------------------------------------------------------\nName: Priya Sharma\nPhone: +91 98765 43210\nEmail: priya.sharma@example.com\nWhatsApp: https://wa.me/919876543210?text=Hi%20Priya%20Sharma,%20thank%20you%20for%20your%20order%20FLORA7-09999%20at%20Flora7!\n\n2. DELIVERY / FULFILLMENT SPECIFICATIONS\n---------------------------------------------------------------\nFulfillment Type: 🚚 Home Delivery\nTarget Date: 2026-09-25\nPreferred Time Slot: Morning (9 AM - 12 PM)\nDelivery Address: 42, 5th Main, 7th Cross, Indiranagar\nLandmark: Near Metro Station\nPincode: 560038\n\n3. PAYMENT & FINANCIAL STATUS\n---------------------------------------------------------------\nPayment Method: UPI\nPayment Status: PAID\nItems Subtotal: ₹1049\nCoupon Discount (WELCOME100): -₹100\nDelivery Charge: FREE\n---------------------------------------------------------------\nTOTAL ORDER AMOUNT: ₹949\n---------------------------------------------------------------\n\n4. GIFT CARD MESSAGE & CUSTOMER INSTRUCTIONS\n---------------------------------------------------------------\nGift Message: \"Happy Anniversary to my dearest love!\"\nSpecial Delivery Instructions: Please ring the doorbell twice\n\n5. ITEM & HANDCRAFT SPECIFICATIONS (1 Item)\n---------------------------------------------------------------\n1. 7 Classic Blue Rose Bouquet (Qty: 1 × ₹1049 = ₹1049)\n   Description: The signature Flora7 7-Rose Bouquet representing eternal love. Handcrafted by Shwetha with sky blue & cream ivory satin ribbon roses, gleaming faux pearl centers in every bloom, frosted Korean white paper with gold borders, and a deluxe gold satin ribbon bow with a pearl pin.\n   • Flower Specs: 7x Handmade Satin Ribbon Rose\n   • Flower Color(s): Royal Midnight Blue\n   • Wrapping Paper: Dual-tone Korean Matte Paper\n   • Ribbon Bow: Lustrous Satin Ribbon Bow\n   • Center Pearls: Included (bloom centers)\n   • Fairy Lights: Included (warm LEDs)\n   • Bouquet Card Message: \"Happy Anniversary to my dearest love!\"\n   • Gift Tag: \"For Priya\"\n\n===============================================================\nMANAGE ORDER IN OWNER PORTAL:\nhttps://flora7.com/admin/dashboard\n\nFlora7 Handmade Studio • Bangalore, India\nCrafted with love by Shwetha\n===============================================================",
+      "status": "LOGGED",
+      "id": "elog-1790058581655-5mn3",
+      "timestamp": "2026-09-22T06:29:41.655Z"
+    },
+    {
+      "recipient": "flora7loveunfolded@gmail.com",
+      "recipientType": "OWNER",
+      "subject": "🌸 New Custom Bouquet Request: FLORA7-OFF-0502 from Priya Sharma",
+      "htmlBody": "\n  <!DOCTYPE html>\n  <html>\n  <head><meta charset=\"utf-8\" /></head>\n  <body style=\"font-family: sans-serif; background-color: #fdf6f7; padding: 24px 12px;\">\n    <div style=\"max-width: 580px; margin: 0 auto; background: #fff; border-radius: 16px; padding: 24px; border: 1px solid #fce7f0;\">\n      <div style=\"background: #5c2533; color: #fff; padding: 16px; border-radius: 12px; text-align: center;\">\n        <h2 style=\"margin: 0; font-size: 18px;\">🌸 NEW CUSTOM / OFFLINE BOOKING</h2>\n        <div style=\"font-size: 12px; color: #f4b8c7; margin-top: 4px;\">Ref: FLORA7-OFF-0502</div>\n      </div>\n      <div style=\"margin-top: 20px; font-size: 14px; color: #3d1822; line-height: 1.6;\">\n        <p><strong>Customer Name:</strong> Priya Sharma</p>\n        <p><strong>Phone:</strong> <a href=\"tel:9845012345\">9845012345</a></p>\n        <p><strong>Email:</strong> Not provided</p>\n        <p><strong>Concept / Product:</strong> 7 Classic Blue Colour Roses Bouquet</p>\n        <p><strong>Quantity:</strong> 1</p>\n        <p><strong>Required By Date:</strong> 2026-09-20</p>\n        <p><strong>Type:</strong> DELIVERY</p>\n        <p><strong>Custom Notes:</strong> Sky blue satin with pearl pins and black wrap</p>\n        \n      </div>\n      <div style=\"text-align: center; margin-top: 24px;\">\n        <a href=\"http://localhost:3000/admin/dashboard\" style=\"background: #b76e79; color: #fff; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-weight: 700;\">\n          View & Quote in Owner Portal\n        </a>\n      </div>\n    </div>\n  </body>\n  </html>\n  ",
+      "textBody": "New custom booking FLORA7-OFF-0502\nCustomer: Priya Sharma (9845012345)\nConcept: 7 Classic Blue Colour Roses Bouquet",
+      "status": "LOGGED",
+      "id": "elog-1789715394576-atmj",
+      "timestamp": "2026-09-18T07:09:54.576Z"
+    },
+    {
+      "orderId": "ord-1789456262482",
+      "orderNumber": "FLORA7-01002",
+      "recipient": "aarav.sharma.test@gmail.com",
+      "recipientType": "CUSTOMER",
+      "subject": "🌸 Order Confirmed: FLORA7-01002 - Your Flora7 Handmade Bouquet is in the Works!",
+      "htmlBody": "\n  <!DOCTYPE html>\n  <html>\n  <head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>Your Flora7 Order Confirmation - FLORA7-01002</title>\n  </head>\n  <body style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background-color: #fdf6f7; margin: 0; padding: 24px 12px;\">\n    <div style=\"max-width: 600px; margin: 0 auto; background: #ffffff; border-radius: 20px; overflow: hidden; border: 1px solid #fce7f0; box-shadow: 0 4px 20px rgba(183, 110, 121, 0.1);\">\n      \n      <!-- Top Banner -->\n      <div style=\"background: linear-gradient(135deg, #5c2533 0%, #b76e79 100%); padding: 30px 20px; text-align: center; color: #ffffff;\">\n        <div style=\"font-size: 24px; font-weight: 800; letter-spacing: 2px;\">FLORA7</div>\n        <div style=\"font-size: 11px; letter-spacing: 3px; color: #fce7f0; margin-top: 3px;\">LOVE UNFOLDED • HANDMADE BLOOMS</div>\n        <div style=\"margin-top: 16px; font-size: 16px; font-weight: 700;\">🌸 Order Confirmed! Thank You, Aarav Sharma!</div>\n      </div>\n\n      <div style=\"padding: 24px;\">\n        <p style=\"font-size: 14px; color: #3d1822; line-height: 1.6; margin-top: 0;\">\n          We are delighted to confirm that your Flora7 order <strong>FLORA7-01002</strong> has been received! Shwetha is already preparing your everlasting satin ribbon flowers with utmost love, patience, and meticulous craftsmanship.\n        </p>\n\n        <!-- Order & Fulfillment Box -->\n        <div style=\"background: #fff9fa; border: 1px solid #fce7f0; border-radius: 14px; padding: 16px; margin: 20px 0; font-size: 13px;\">\n          <table style=\"width: 100%; border-collapse: collapse; font-size: 13px;\">\n            <tr>\n              <td style=\"padding: 5px 0; color: #8c5263; width: 40%;\">Order Number:</td>\n              <td style=\"padding: 5px 0; font-weight: 800; color: #5c2533; text-align: right;\">FLORA7-01002</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 5px 0; color: #8c5263;\">Delivery / Pickup Date:</td>\n              <td style=\"padding: 5px 0; font-weight: 700; color: #3d1822; text-align: right;\">2026-09-18 (Evening (4 PM - 7 PM))</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 5px 0; color: #8c5263; vertical-align: top;\">Fulfillment Details:</td>\n              <td style=\"padding: 5px 0; font-weight: 600; color: #3d1822; text-align: right;\">\n                🚚 Home Delivery: Flat 402, Lotus Greens, Indiranagar (Landmark: Near Metro Station) (560038)\n              </td>\n            </tr>\n            <tr>\n              <td style=\"padding: 5px 0; color: #8c5263;\">Payment:</td>\n              <td style=\"padding: 5px 0; font-weight: 700; color: #166534; text-align: right;\">UPI • PAID</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 5px 0; color: #8c5263;\">Order Status:</td>\n              <td style=\"padding: 5px 0; font-weight: 800; color: #b76e79; text-align: right;\">Confirmed & Preparing</td>\n            </tr>\n          </table>\n        </div>\n\n        \n        <div style=\"background: #fdf2f4; border: 1px dashed #b76e79; border-radius: 12px; padding: 12px 16px; margin-bottom: 20px; font-size: 13px;\">\n          <strong style=\"color: #5c2533;\">💌 Keepsake Card Message:</strong> <em>\"Happy Anniversary my love, forever and always!\"</em>\n        </div>\n\n        <!-- Detailed Product Breakdown -->\n        <div style=\"margin: 24px 0 16px 0;\">\n          <div style=\"font-weight: 800; color: #5c2533; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; border-bottom: 2px solid #fce7f0; padding-bottom: 6px;\">\n            Your Ordered Products & Details (1)\n          </div>\n          \n    <div style=\"background: #ffffff; border: 1.5px solid #fce7f0; border-radius: 14px; padding: 16px; margin-bottom: 16px; box-shadow: 0 2px 8px rgba(183, 110, 121, 0.05);\">\n      <table style=\"width: 100%; border-collapse: collapse;\">\n        <tr>\n          \n          <td style=\"width: 80px; vertical-align: top; padding-right: 14px;\">\n            <img src=\"http://localhost:3000/images/flora7-247-bouquet.jpeg\" alt=\"Blushing Grace 7-Rose Satin Ribbon Bouquet\" style=\"width: 80px; height: 80px; object-fit: cover; border-radius: 10px; border: 1px solid #f4b8c7;\" />\n          </td>\n          <td style=\"vertical-align: top;\">\n            <div style=\"font-weight: 800; color: #5c2533; font-size: 15px; font-family: Georgia, serif;\">Blushing Grace 7-Rose Satin Ribbon Bouquet</div>\n            <div style=\"font-size: 12px; color: #b76e79; font-weight: 700; margin-top: 2px;\">\n              Quantity: 1 × ₹1299 &nbsp;•&nbsp; <span style=\"color: #5c2533;\">Total: ₹1299</span>\n            </div>\n            \n            <!-- Detailed Description of the Product -->\n            <div style=\"font-size: 12px; color: #5e5254; line-height: 1.5; margin-top: 8px; background: #fff9fa; padding: 8px 12px; border-radius: 8px; border-left: 3px solid #b76e79;\">\n              <strong style=\"color: #5c2533;\">Product Overview:</strong> The signature Flora7 7-Rose Bouquet representing eternal love. Handcrafted by Shwetha with sky blue & cream ivory satin ribbon roses, gleaming faux pearl centers in every bloom, frosted Korean white paper with gold borders, and a deluxe gold satin ribbon bow with a pearl pin.\n            </div>\n          </td>\n        </tr>\n      </table>\n\n      <!-- Product & Craftsmanship Specifications -->\n      <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed #fce7f0;\">\n        <div style=\"font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px; color: #8c5263; margin-bottom: 8px;\">\n          🌸 Detailed Product Specifications & Customizations:\n        </div>\n        <table style=\"width: 100%; font-size: 12px; border-collapse: collapse;\">\n          <tr>\n            <td style=\"padding: 3px 0; color: #7a4654; width: 45%;\"><strong>Flower Composition:</strong></td>\n            <td style=\"padding: 3px 0; color: #3d1822; text-align: right;\">7 × Handmade Satin Ribbon Rose</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 3px 0; color: #7a4654;\"><strong>Selected Colors:</strong></td>\n            <td style=\"padding: 3px 0; color: #3d1822; text-align: right; font-weight: 600;\">Blush Pink & Ivory Cream</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 3px 0; color: #7a4654;\"><strong>Floral Wrapping:</strong></td>\n            <td style=\"padding: 3px 0; color: #3d1822; text-align: right;\">Dual-tone Korean Matte Paper (Blush & Pearl White)</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 3px 0; color: #7a4654;\"><strong>Satin Ribbon Bow:</strong></td>\n            <td style=\"padding: 3px 0; color: #3d1822; text-align: right;\">Wine Red Double-faced Ribbon Bow</td>\n          </tr>\n          \n          <tr>\n            <td style=\"padding: 3px 0; color: #7a4654;\"><strong>Center Pearls:</strong></td>\n            <td style=\"padding: 3px 0; color: #3d1822; text-align: right;\">✨ Embedded luminous pearl at flower centers</td>\n          </tr>\n          \n          <tr>\n            <td style=\"padding: 3px 0; color: #7a4654;\"><strong>Warm Fairy Lights:</strong></td>\n            <td style=\"padding: 3px 0; color: #16a34a; text-align: right; font-weight: bold;\">💡 Micro-LED lights included</td>\n          </tr>\n          \n          <tr>\n            <td style=\"padding: 3px 0; color: #7a4654; vertical-align: top;\"><strong>Printed Keepsake Card:</strong></td>\n            <td style=\"padding: 3px 0; color: #5c2533; text-align: right; font-style: italic; font-weight: 600;\">\"Happy Anniversary my love, forever and always!\"</td>\n          </tr>\n          \n        </table>\n      </div>\n    </div>\n    \n        </div>\n\n        <!-- Price Summary -->\n        <div style=\"background: #faf5f6; border-radius: 14px; padding: 16px; margin-bottom: 24px;\">\n          <table style=\"width: 100%; border-collapse: collapse; font-size: 13px;\">\n            <tr>\n              <td style=\"padding: 4px 0; color: #7a4654;\">Subtotal:</td>\n              <td style=\"padding: 4px 0; font-weight: 600; text-align: right; color: #3d1822;\">₹1299</td>\n            </tr>\n            \n            <tr>\n              <td style=\"padding: 4px 0; color: #7a4654;\">Delivery:</td>\n              <td style=\"padding: 4px 0; font-weight: 600; text-align: right; color: #3d1822;\">₹100</td>\n            </tr>\n            <tr style=\"border-top: 1.5px solid #f4b8c7;\">\n              <td style=\"padding: 8px 0 2px 0; font-weight: 800; font-size: 15px; color: #5c2533;\">Total Paid:</td>\n              <td style=\"padding: 8px 0 2px 0; font-weight: 800; font-size: 17px; text-align: right; color: #b76e79;\">₹1399</td>\n            </tr>\n          </table>\n        </div>\n\n        <!-- Care Guide -->\n        <div style=\"background: #fff9fa; border-left: 3px solid #b76e79; border-radius: 8px; padding: 12px 14px; margin-bottom: 24px; font-size: 12px; color: #5e5254; line-height: 1.5;\">\n          <strong style=\"color: #5c2533;\">🌸 Keepsake Flower Care:</strong> Unlike fresh flowers, your Flora7 handmade satin blooms will never wilt, fade, or dry! Keep them away from open flames and extreme dampness. If dust settles over time, lightly blow with a hairdryer on the cool setting.\n        </div>\n\n        <!-- Action Button -->\n        <div style=\"text-align: center; margin: 24px 0;\">\n          <a href=\"http://localhost:3000/my-orders\" style=\"display: inline-block; background: #b76e79; color: #ffffff; font-weight: 700; font-size: 13px; text-decoration: none; padding: 12px 28px; border-radius: 30px; box-shadow: 0 4px 12px rgba(183, 110, 121, 0.25);\">\n            Track Your Order Live →\n          </a>\n        </div>\n\n        <!-- Contact Support -->\n        <div style=\"font-size: 12px; color: #8c5263; line-height: 1.6; text-align: center; border-top: 1px solid #fce7f0; padding-top: 18px;\">\n          Have questions or want to customize your card message? You can reply directly to this email at <a href=\"mailto:flora7loveunfolded@gmail.com\" style=\"color: #b76e79; font-weight: 700; text-decoration: none;\">flora7loveunfolded@gmail.com</a> or message Shwetha on WhatsApp: <strong>+91 98450 12345</strong>.<br />\n          Follow our creations on Instagram: <a href=\"https://instagram.com/flora7loveunfolded\" style=\"color: #b76e79; font-weight: 700; text-decoration: none;\">@flora7loveunfolded</a>.\n        </div>\n      </div>\n\n      <!-- Footer -->\n      <div style=\"background: #fff9fa; border-top: 1px solid #fce7f0; padding: 14px; text-align: center; font-size: 11px; color: #8c5263;\">\n        Flora7 • Forever Satin Blooms Crafted by Shwetha • Sent through flora7loveunfolded@gmail.com\n      </div>\n    </div>\n  </body>\n  </html>\n  ",
+      "textBody": "Hi Aarav Sharma,\nThank you for ordering at Flora7! Your order FLORA7-01002 for ₹1399 has been confirmed.\n\nItems: 1x Blushing Grace 7-Rose Satin Ribbon Bouquet\n\nTrack your order at: http://localhost:3000/my-orders",
+      "status": "LOGGED",
+      "id": "elog-1789456262489-khvb",
+      "timestamp": "2026-09-15T07:11:02.489Z"
+    },
+    {
+      "orderId": "ord-1789456262482",
+      "orderNumber": "FLORA7-01002",
+      "recipient": "flora7loveunfolded@gmail.com, swethasathish536@gmail.com",
+      "recipientType": "OWNER",
+      "subject": "🌸 New Flora7 Order: FLORA7-01002 from Aarav Sharma (₹1399)",
+      "htmlBody": "\n  <!DOCTYPE html>\n  <html>\n  <head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>New Order Alert - FLORA7-01002</title>\n  </head>\n  <body style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; background-color: #fdf6f7; margin: 0; padding: 24px 12px;\">\n    <div style=\"max-width: 620px; margin: 0 auto; background: #ffffff; border-radius: 20px; overflow: hidden; box-shadow: 0 4px 20px rgba(183, 110, 121, 0.12); border: 1px solid #fce7f0;\">\n      \n      <!-- Header Banner -->\n      <div style=\"background: linear-gradient(135deg, #5c2533 0%, #8c3b52 100%); padding: 28px 24px; text-align: center; color: #ffffff;\">\n        <div style=\"font-size: 24px; font-weight: 800; letter-spacing: 2px;\">FLORA7</div>\n        <div style=\"font-size: 12px; letter-spacing: 3px; color: #f4b8c7; margin-top: 4px; text-transform: uppercase;\">Handmade Satin Ribbon Flowers</div>\n        <div style=\"margin-top: 16px; display: inline-block; background: #ffffff; color: #5c2533; font-size: 13px; font-weight: 800; padding: 6px 16px; border-radius: 30px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);\">\n          🚨 NEW ORDER RECEIVED: FLORA7-01002\n        </div>\n      </div>\n\n      <!-- Main Body -->\n      <div style=\"padding: 24px;\">\n        <div style=\"font-size: 16px; color: #3d1822; line-height: 1.5; margin-bottom: 20px;\">\n          Hello <strong>Shwetha</strong>, you have received a new handmade bouquet order on Flora7!\n        </div>\n\n        <!-- Order Summary Card -->\n        <div style=\"background: #fff9fa; border: 1px solid #fce7f0; border-radius: 14px; padding: 18px; margin-bottom: 24px;\">\n          <table style=\"width: 100%; border-collapse: collapse; font-size: 13px;\">\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Order Number:</td>\n              <td style=\"padding: 6px 0; font-weight: 800; color: #5c2533; text-align: right;\">FLORA7-01002</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Customer Name:</td>\n              <td style=\"padding: 6px 0; font-weight: 700; color: #3d1822; text-align: right;\">Aarav Sharma</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Customer Phone:</td>\n              <td style=\"padding: 6px 0; font-weight: 700; color: #3d1822; text-align: right;\"><a href=\"tel:+91 9876543210\" style=\"color: #b76e79; text-decoration: none;\">+91 9876543210</a></td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Customer Email:</td>\n              <td style=\"padding: 6px 0; font-weight: 600; color: #3d1822; text-align: right;\"><a href=\"mailto:aarav.sharma.test@gmail.com\" style=\"color: #b76e79; text-decoration: none;\">aarav.sharma.test@gmail.com</a></td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Fulfillment Type:</td>\n              <td style=\"padding: 6px 0; font-weight: 700; color: #5c2533; text-align: right;\">🚚 Home Delivery</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Target Date & Slot:</td>\n              <td style=\"padding: 6px 0; font-weight: 700; color: #3d1822; text-align: right;\">2026-09-18 (Evening (4 PM - 7 PM))</td>\n            </tr>\n            \n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263; vertical-align: top;\">Delivery Address:</td>\n              <td style=\"padding: 6px 0; font-weight: 600; color: #3d1822; text-align: right;\">Flat 402, Lotus Greens, Indiranagar (Landmark: Near Metro Station) (560038)</td>\n            </tr>\n            \n            <tr>\n              <td style=\"padding: 6px 0; color: #8c5263;\">Payment:</td>\n              <td style=\"padding: 6px 0; font-weight: 800; color: #166534; text-align: right;\">UPI (PAID)</td>\n            </tr>\n          </table>\n        </div>\n\n        <!-- Special Notes / Gift Message -->\n        \n        <div style=\"background: #fdf2f4; border: 1px dashed #b76e79; border-radius: 12px; padding: 14px; margin-bottom: 24px; font-size: 13px;\">\n          <div>💌 <strong>Gift Message to Include:</strong> <em>\"Happy Anniversary my love, forever and always!\"</em></div>\n          \n        </div>\n        \n\n        <!-- Items with Detailed Product Descriptions -->\n        <div style=\"margin-bottom: 24px;\">\n          <div style=\"font-weight: 800; color: #5c2533; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; border-bottom: 2px solid #fce7f0; padding-bottom: 6px;\">\n            Ordered Items & Detailed Descriptions (1)\n          </div>\n          \n    <div style=\"background: #ffffff; border: 1.5px solid #fce7f0; border-radius: 14px; padding: 16px; margin-bottom: 16px;\">\n      <table style=\"width: 100%; border-collapse: collapse;\">\n        <tr>\n          \n          <td style=\"width: 70px; vertical-align: top; padding-right: 14px;\">\n            <img src=\"http://localhost:3000/images/flora7-247-bouquet.jpeg\" alt=\"Blushing Grace 7-Rose Satin Ribbon Bouquet\" style=\"width: 70px; height: 70px; object-fit: cover; border-radius: 10px; border: 1px solid #f4b8c7;\" />\n          </td>\n          <td style=\"vertical-align: top;\">\n            <div style=\"font-weight: 800; color: #5c2533; font-size: 15px; font-family: Georgia, serif;\">Blushing Grace 7-Rose Satin Ribbon Bouquet</div>\n            <div style=\"font-size: 12px; color: #8c5263; margin-top: 3px; font-weight: 600;\">\n              Quantity: <strong>1</strong> × ₹1299 &nbsp;•&nbsp; <span style=\"color: #b76e79;\">Total: ₹1299</span>\n            </div>\n            <div style=\"background: #fff9fa; padding: 8px 12px; border-radius: 8px; margin-top: 8px; font-size: 11.5px; color: #5e5254; border-left: 3px solid #b76e79; line-height: 1.5;\">\n              <strong>Product Description:</strong> The signature Flora7 7-Rose Bouquet representing eternal love. Handcrafted by Shwetha with sky blue & cream ivory satin ribbon roses, gleaming faux pearl centers in every bloom, frosted Korean white paper with gold borders, and a deluxe gold satin ribbon bow with a pearl pin.\n            </div>\n          </td>\n        </tr>\n      </table>\n\n      <!-- Specifications for Owner Assembly -->\n      <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed #fce7f0; font-size: 12px; color: #3d1822;\">\n        <div style=\"font-size: 11px; font-weight: 800; color: #b76e79; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px;\">\n          ✂️ Assembly & Crafting Specifications:\n        </div>\n        <table style=\"width: 100%; border-collapse: collapse; font-size: 12px;\">\n          <tr>\n            <td style=\"padding: 2px 0; color: #7a4654; width: 40%;\"><strong>Flowers:</strong></td>\n            <td style=\"padding: 2px 0; color: #3d1822;\">7 × Handmade Satin Ribbon Rose</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 2px 0; color: #7a4654;\"><strong>Color(s):</strong></td>\n            <td style=\"padding: 2px 0; color: #3d1822; font-weight: 600;\">Blush Pink & Ivory Cream</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 2px 0; color: #7a4654;\"><strong>Wrapping Paper:</strong></td>\n            <td style=\"padding: 2px 0; color: #3d1822;\">Dual-tone Korean Matte Paper (Blush & Pearl White)</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 2px 0; color: #7a4654;\"><strong>Ribbon Bow:</strong></td>\n            <td style=\"padding: 2px 0; color: #3d1822;\">Wine Red Double-faced Ribbon Bow</td>\n          </tr>\n          \n          <tr>\n            <td style=\"padding: 2px 0; color: #7a4654;\"><strong>Center Pearls:</strong></td>\n            <td style=\"padding: 2px 0; color: #b76e79; font-weight: 600;\">✨ Add pearls to bloom centers</td>\n          </tr>\n          \n          <tr>\n            <td style=\"padding: 2px 0; color: #7a4654;\"><strong>Fairy Lights:</strong></td>\n            <td style=\"padding: 2px 0; color: #16a34a; font-weight: 700;\">💡 Include warm LED fairy lights</td>\n          </tr>\n          \n          <tr>\n            <td style=\"padding: 2px 0; color: #7a4654; vertical-align: top;\"><strong>Card Message:</strong></td>\n            <td style=\"padding: 2px 0; color: #5c2533; font-style: italic; font-weight: 600;\">\"Happy Anniversary my love, forever and always!\"</td>\n          </tr>\n          \n        </table>\n      </div>\n    </div>\n    \n        </div>\n\n        <!-- Financial Totals -->\n        <div style=\"background: #faf5f6; border-radius: 12px; padding: 16px; margin-bottom: 28px;\">\n          <table style=\"width: 100%; border-collapse: collapse; font-size: 13px;\">\n            <tr>\n              <td style=\"padding: 4px 0; color: #7a4654;\">Subtotal:</td>\n              <td style=\"padding: 4px 0; font-weight: 600; text-align: right; color: #3d1822;\">₹1299</td>\n            </tr>\n            \n            <tr>\n              <td style=\"padding: 4px 0; color: #7a4654;\">Delivery Fee:</td>\n              <td style=\"padding: 4px 0; font-weight: 600; text-align: right; color: #3d1822;\">₹100</td>\n            </tr>\n            <tr style=\"border-top: 1.5px solid #f4b8c7;\">\n              <td style=\"padding: 10px 0 4px 0; font-weight: 800; font-size: 16px; color: #5c2533;\">Total Amount:</td>\n              <td style=\"padding: 10px 0 4px 0; font-weight: 800; font-size: 18px; text-align: right; color: #b76e79;\">₹1399</td>\n            </tr>\n          </table>\n        </div>\n\n        <!-- CTA Buttons -->\n        <div style=\"text-align: center; margin-bottom: 16px;\">\n          <a href=\"http://localhost:3000/admin/dashboard\" style=\"display: inline-block; background: #5c2533; color: #ffffff; font-weight: 800; font-size: 14px; text-decoration: none; padding: 14px 28px; border-radius: 30px; letter-spacing: 0.5px; box-shadow: 0 4px 12px rgba(92, 37, 51, 0.25);\">\n            Open Owner Portal to Manage Order →\n          </a>\n        </div>\n        <div style=\"text-align: center;\">\n          <a href=\"https://wa.me/919876543210?text=Hi%20Aarav%20Sharma,%20thank%20you%20for%20your%20order%20FLORA7-01002%20at%20Flora7!%20Shwetha%20here%20from%20Flora7.\" style=\"font-size: 12px; color: #16a34a; font-weight: 700; text-decoration: none;\">\n            💬 WhatsApp Customer Directly\n          </a>\n        </div>\n\n      </div>\n\n      <!-- Footer -->\n      <div style=\"background: #fff9fa; border-top: 1px solid #fce7f0; padding: 16px; text-align: center; font-size: 11px; color: #8c5263;\">\n        Flora7 Handmade Studio • Bangalore, India • Crafted with Love by Shwetha<br />\n        This is an automated notification from your Flora7 online store sent to <strong>flora7loveunfolded@gmail.com</strong>.\n      </div>\n    </div>\n  </body>\n  </html>\n  ",
+      "textBody": "New Order FLORA7-01002\nCustomer: Aarav Sharma (+91 9876543210)\nAmount: ₹1399\nItems: 1x Blushing Grace 7-Rose Satin Ribbon Bouquet",
+      "status": "LOGGED",
+      "id": "elog-1789456262484-r7ra",
+      "timestamp": "2026-09-15T07:11:02.484Z"
+    }
+  ],
+  "ownerAlerts": [
+    {
+      "type": "SYSTEM",
+      "title": "Order Updated: ORD-DELIV-101",
+      "message": "Order status changed to DELIVERED for Priya Sharma",
+      "orderId": "test-delivered-101",
+      "orderNumber": "ORD-DELIV-101",
+      "customerName": "Priya Sharma",
+      "id": "alert-1790059322124-4yr9",
+      "read": false,
+      "timestamp": "2026-09-22T06:42:02.124Z"
+    },
+    {
+      "type": "SYSTEM",
+      "title": "Order Updated: ORD-TEST-DELIV-99",
+      "message": "Order status changed to DELIVERED for Aarohi Sen",
+      "orderId": "test-delivered-1",
+      "orderNumber": "ORD-TEST-DELIV-99",
+      "customerName": "Aarohi Sen",
+      "id": "alert-1790059277822-1nei",
+      "read": false,
+      "timestamp": "2026-09-22T06:41:17.822Z"
+    },
+    {
+      "type": "NEW_ORDER",
+      "title": "New Order: FLORA7-09999",
+      "message": "Priya Sharma placed an order for ₹949 (1 item)",
+      "orderId": "test-order-999",
+      "orderNumber": "FLORA7-09999",
+      "amount": 949,
+      "customerName": "Priya Sharma",
+      "id": "alert-1790058581652-j2tg",
+      "read": false,
+      "timestamp": "2026-09-22T06:29:41.652Z"
+    },
+    {
+      "type": "CUSTOM_BOOKING",
+      "title": "Custom Bouquet Request: FLORA7-OFF-0502",
+      "message": "Priya Sharma requested custom bouquet (7 Classic Blue Colour Roses Bouquet)",
+      "customerName": "Priya Sharma",
+      "id": "alert-1789715394575-n3hu",
+      "read": false,
+      "timestamp": "2026-09-18T07:09:54.575Z"
+    },
+    {
+      "type": "NEW_ORDER",
+      "title": "New Order: FLORA7-01002",
+      "message": "Aarav Sharma placed an order for ₹1399 (1 item)",
+      "orderId": "ord-1789456262482",
+      "orderNumber": "FLORA7-01002",
+      "amount": 1399,
+      "customerName": "Aarav Sharma",
+      "id": "alert-1789456262483-whfa",
+      "read": false,
+      "timestamp": "2026-09-15T07:11:02.483Z"
+    }
+  ]
+}

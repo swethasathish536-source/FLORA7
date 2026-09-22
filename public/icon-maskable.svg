@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5C2533" />
+      <stop offset="50%" stop-color="#431822" />
+      <stop offset="100%" stop-color="#2D0D15" />
+    </linearGradient>
+    <linearGradient id="goldGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FCE7F0" />
+      <stop offset="50%" stop-color="#E5A9B4" />
+      <stop offset="100%" stop-color="#B76E79" />
+    </linearGradient>
+    <linearGradient id="petalGrad1b" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FCE7F0" />
+      <stop offset="50%" stop-color="#F4B8C7" />
+      <stop offset="100%" stop-color="#B76E79" />
+    </linearGradient>
+    <linearGradient id="petalGrad2b" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B76E79" />
+      <stop offset="60%" stop-color="#D48493" />
+      <stop offset="100%" stop-color="#FCE7F0" />
+    </linearGradient>
+    <radialGradient id="pearlShine2" cx="35%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="60%" stop-color="#FFF0F5" />
+      <stop offset="100%" stop-color="#DDA0B0" />
+    </radialGradient>
+  </defs>
+
+  <!-- Full-bleed background for Android circle/squircle masking (no corners) -->
+  <rect width="512" height="512" fill="url(#bgGrad2)" />
+
+  <!-- Safe Zone Scale (80% centered) -->
+  <g transform="translate(51.2, 51.2) scale(0.8)">
+    <circle cx="256" cy="230" r="160" fill="none" stroke="url(#goldGrad2)" stroke-width="3" stroke-opacity="0.35" />
+    
+    <!-- Rose Petals -->
+    <path d="M 256 100 C 305 100 370 140 360 215 C 355 250 330 290 295 320 C 230 365 155 330 140 265 C 128 200 195 105 256 100 Z" fill="url(#petalGrad1b)" opacity="0.9" />
+    <path d="M 256 100 C 205 100 140 145 150 220 C 155 255 185 295 220 325 C 285 365 355 325 360 260 C 370 195 305 105 256 100 Z" fill="url(#petalGrad2b)" opacity="0.85" />
+
+    <path d="M 256 135 C 290 135 340 168 335 222 C 330 250 308 278 280 296 C 230 332 175 300 165 250 C 156 200 208 140 256 135 Z" fill="url(#petalGrad1b)" />
+    <path d="M 256 175 C 278 175 308 195 305 232 C 300 252 282 270 265 280 C 230 300 195 280 188 246 C 182 210 222 178 256 175 Z" fill="url(#petalGrad1b)" />
+
+    <circle cx="256" cy="225" r="14" fill="url(#pearlShine2)" />
+
+    <text x="256" y="405" text-anchor="middle" font-family="'Playfair Display', Georgia, serif" font-weight="900" font-size="44" fill="#FCE7F0" letter-spacing="8">FLORA7</text>
+    <text x="256" y="432" text-anchor="middle" font-family="-apple-system, sans-serif" font-weight="700" font-size="14" fill="#E5A9B4" letter-spacing="4">LOVE UNFOLDED</text>
+  </g>
+</svg>
